@@ -1,4 +1,4 @@
-<h1 align = "center"> Coding Chronciles </h1>
+<h1 align = "center"> Coding Chronicles </h1>
  <div align = "center"><i> Februrary 2025 </i></div>
 
  ------------
