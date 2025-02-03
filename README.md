@@ -30,3 +30,13 @@ Revisiting my basic CSS skills, I managed to create a stylised header, and fille
 
 --- Feb 3rd ---  
 2025-02-03
+
+After an interesting day on User Centred Design; our team were focused on visual aid for progress and tracking, and it made me realise where I was in my current personal project, afraid to delve into the next step and decide what data visualisation module to go for.  
+
+So I got myself re-familiar from my previous research, and realised, even though I had my heart set on utilising a Python module - communicating the data from js and then sending the visuals back would require a back-end. That would give a noticable slowdown, and quite a time sink  
+considering this is just for my MVP, at this stage.  So, I rolled with the Plotly.js module, and created my bar range graph with PH data. It was not without teething issues. I did have to manually change the base property (as by default all bar graphs start at 0), and it turns out at my 'ranges',  
+were simply adding the highest point as the amount to the lowest - so I had to make some logic to counter that.  Once that was reolved and the graph was generating inside the correct container with a button click, I committed my progress on that for the day.  
+  
+Following that, I had a quick investigation with star plots/radar charts in chart.js, to see if the team would be interested in utilising something like this for our visual progress tracker for our solution in this week's challenge.  
+
+------------ 
