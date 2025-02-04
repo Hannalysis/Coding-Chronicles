@@ -31,7 +31,7 @@ Revisiting my basic CSS skills, I managed to create a stylised header, and fille
 --- Feb 3rd ---  
 2025-02-03
 
-After an interesting day on User Centred Design; our team were focused on visual aid for progress and tracking, and it made me realise where I was in my current personal project, afraid to delve into the next step and decide what data visualisation module to go for.  
+After an interesting day on User Centred Design; our team were focused on visual aid for progress and tracking, and it made me realise where I was in my current personal project (CoCo), afraid to delve into the next step and decide what data visualisation module to go for.  
 
 So I got myself re-familiar from my previous research, and realised, even though I had my heart set on utilising a Python module - communicating the data from js and then sending the visuals back would require a back-end. That would give a noticable slowdown, and quite a time sink
 considering this is just for my MVP, at this stage.  So, I rolled with the Plotly.js module, and created my bar range graph with PH data. It was not without teething issues. I did have to manually change the base property (as by default all bar graphs start at 0), and it turns out at my 'ranges',  
@@ -40,3 +40,14 @@ were simply adding the highest point as the amount to the lowest - so I had to m
 Following that, I had a quick investigation with star plots/radar charts in chart.js, to see if the team would be interested in utilising something like this for our visual progress tracker for our solution in this week's challenge.  
 
 ------------ 
+
+--- Feb 4th ---  
+2025-02-04
+
+I wasn't feeling that well today, so I thought I'd try for a quick pomodoro session this evening, continuing on CoCo.  
+
+So, I focused on trying to align the bar range graph better inside the container I'm placing it in, and also to align it with the instrument boxes on the left panel. The latter I did not manage today, but I was able to use the reverse function 
+on all array data to ensure that the populated items were showing from top to bottom (instead of the opposite) to match the order of the items entered. I also got rid of all the margin space on the graph itself, for a better fit inside the container it resides in. 
+Outside of that, I spent a good amount of time just reading through the plotly documentation, and watching a couple of YT vids on bar graphs (including animation frames, which I'd love to introduce at some point if required).
+
+------------
