@@ -51,3 +51,14 @@ on all array data to ensure that the populated items were showing from top to bo
 Outside of that, I spent a good amount of time just reading through the plotly documentation, and watching a couple of YT vids on bar graphs (including animation frames, which I'd love to introduce at some point if required).
 
 ------------
+
+--- Feb 5th ---  
+2025-02-05
+
+Today our bootcamp continued with our User Centred Design week with a focus on our storyboard, user journey, ethics discussions and user testing/feedback considerations.  
+As it's another one of those intensive long days, I find myself usually struggling for energy on Wednesdays. After bringing this up with my mentor this evening, I realise my work/rest balance is not good enough, especially when I'm facing a topic I'm still struggling to 
+get a full grasp of.  
+
+So after a quick bug fix in last week's hackathon, Owlify (now all the incorrect multiple choice options have the chance to be any non-correct owl rather than just most of them), I will be taking the rest of this evening off to rest and recuperate.  
+
+------------
