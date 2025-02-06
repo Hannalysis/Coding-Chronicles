@@ -62,3 +62,15 @@ get a full grasp of.
 So after a quick bug fix in last week's hackathon, Owlify (now all the incorrect multiple choice options have the chance to be any non-correct owl rather than just most of them), I will be taking the rest of this evening off to rest and recuperate.  
 
 ------------
+
+--- Feb 6th ---  
+2025-02-06
+
+We spent today at SoC doing our first Design focused hackathon - utilising figma's prototype features.  
+  
+It is very useful in framing the visual side of a mobile application, with linking frames to imitate the touch user-flow experience that would be expected on a mobile application.  
+What started as a simple 7 frame experience, turned into 22 frames, some of which, to behave in appropriate instances of the app, had to have some duplication to maintain a progressive feel during the app experience.
+
+I would have finished up the day with a bit of coding practice, however I have some testing research lined up with a volunteer for today's hackathon prototype, so I'll need to document their responses and feedback their experiences to the team tomorrow in time for the presentation.
+
+------------
