@@ -74,3 +74,6 @@ What started as a simple 7 frame experience, turned into 22 frames, some of whic
 I would have finished up the day with a bit of coding practice, however I have some testing research lined up with a volunteer for today's hackathon prototype, so I'll need to document their responses and feedback their experiences to the team tomorrow in time for the presentation.
 
 ------------
+
+--- Feb 8th ---  
+2025-02-08
