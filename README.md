@@ -77,3 +77,10 @@ I would have finished up the day with a bit of coding practice, however I have s
 
 --- Feb 8th ---  
 2025-02-08
+
+Due to the hectic week and after a great but tiring presentation day at SoC, I was unable to code yesterday evening.  
+
+Today I got back to it! Returned to my CV creation (using HTML and CSS) - headers and PH font in, horizontal list items for Certifications created, and Personal Statement content added.  
+I spent a bit more time in the Personal Information segment, as I needed to sort out the icons I wanted to use, and made sure they aligned appropriately using CSS nesting to avoid any duplication. 
+
+------------
