@@ -84,3 +84,15 @@ Today I got back to it! Returned to my CV creation (using HTML and CSS) - header
 I spent a bit more time in the Personal Information segment, as I needed to sort out the icons I wanted to use, and made sure they aligned appropriately using CSS nesting to avoid any duplication. 
 
 ------------
+
+--- Feb 9th ---  
+2025-02-09
+
+Today I had to spend a lot of time working on my CV, as I have a meeting to discuss it tomorrow after bootcamp!  
+
+So I got all the content added (that took most of my time today), which meant, unfortunately some of my formatting is not exactly how I want it, but it's close.  
+I also spent some time researching into the modules I can utilise to convert my HTML & CSS into a decent pdf file.  
+I ended up utilising one called Puppeteer, which, although its primary case used to be a web scraping tool, it has fell out of favour in comparison to other 
+modules such as Playwright, and people tend to use this only for it's higher quality pdf conversion (compared to jspdf).  
+
+------------
