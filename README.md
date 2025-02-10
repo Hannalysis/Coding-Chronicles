@@ -102,6 +102,6 @@ modules such as Playwright, and people tend to use this only for it's higher qua
 
 Still feeling frazzled today; after our first day back at SoC starting on the DevOps module, I had a CV meeting scheduled striaght after.  
 
-I got good feedback, and was hoping to implement all the minor tweaks and start trying to serve my projects post delving into some TypeScript, but unfortunately, I ran into a lot of online tech issues, naming being unable to sign up to netlify or vercel.  
+I got good feedback, and was hoping to implement all the minor tweaks and start trying to serve my projects post delving into some TypeScript, but unfortunately, I ran into a lot of online tech issues, namely being unable to sign up to netlify or vercel.  
 
 ------------
