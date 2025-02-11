@@ -105,3 +105,12 @@ Still feeling frazzled today; after our first day back at SoC starting on the De
 I got good feedback, and was hoping to implement all the minor tweaks and start trying to serve my projects post delving into some TypeScript, but unfortunately, I ran into a lot of online tech issues, namely being unable to sign up to netlify or vercel.  
 
 ------------
+
+--- Feb 11th ---  
+2025-02-11
+
+Today at SoC we delved into Sentry, and as a team collectively work togather using a previous React project to get it running alongside it locally, and to force an error to occur to see how Sentry handles & visualises the information.  
+
+After, I focused on tweaking my CV into a state I'm confident with.  Then I moved onto creating Readme files for the projects I wish to showcase with my future applications.  
+
+------------
