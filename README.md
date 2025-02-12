@@ -114,3 +114,14 @@ Today at SoC we delved into Sentry, and as a team collectively work togather usi
 After, I focused on tweaking my CV into a state I'm confident with.  Then I moved onto creating Readme files for the projects I wish to showcase with my future applications.  
 
 ------------
+
+--- Feb 12th ---  
+2025-02-12
+
+Today at SoC we learnt about Github actions; in particular, the built-in secret scanning tool, and other open source security tool measures such as Trufflehog, that can be setup on push or pull requests to scan your file to check for sensitive data that could be accidently sent to the remote repo.  
+
+Unfortunately, I did not feel well this afternoon, but I did manage to write a readme for the SQL hackathon, and serve our React Vite application using Vercel.  
+
+------------
+
+------------
