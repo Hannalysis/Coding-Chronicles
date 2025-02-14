@@ -124,4 +124,11 @@ Unfortunately, I did not feel well this afternoon, but I did manage to write a r
 
 ------------
 
+--- Feb 14th ---  
+2025-02-14
+
+Unfortunately I had to skip yesterday as I was being too poorly, especially by the evening.  
+Today, after a much needed extended rest, I spent some time watching many tutorials on the Dev Ops cycle, ie IaC and the Infrastructure provisioning > Configuration of provisioned infrastructure > Deployment of app process.  
+I also learnt how to utilise Docker, and some basic Github Actions.  
+
 ------------
