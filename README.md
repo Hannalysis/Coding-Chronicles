@@ -128,7 +128,14 @@ Unfortunately, I did not feel well this afternoon, but I did manage to write a r
 2025-02-14
 
 Unfortunately I had to skip yesterday as I was being too poorly, especially by the evening.  
+
 Today, after a much needed extended rest, I spent some time watching many tutorials on the Dev Ops cycle, ie IaC and the Infrastructure provisioning > Configuration of provisioned infrastructure > Deployment of app process.  
 I also learnt how to utilise Docker, and some basic Github Actions.  
+
+By the late evening, I started to feel like I had some energy to try something new, but perhaps not overly taxing - so I decided to create my first Next.js app, utilising Vercel's powerful AI design tool v0.dev, to create that initial setup file - with Typescript and Tailwind as the supporting tech stack.  
+I asked for a basic Soundboard layout, with multiple buttons, and a random musician quote at the front and center (with a basic Header and Footer). Naturally, the sound part of the app did not function, as v0 is unable to grab source files, so I had to get that working myself.  
+
+It took me some time to realise that not only did I require a custom.t.ds file (to allow Typescript to see a file locating to an .mp3 as an audio file), I also had to place the sounds folder inside the public folder, instead of the src folder 
+(which is opposite to how React behaves).  It was a bit of a much-needed hurrah moment when I could hear sound in my Next application, and hopefully this reignition will further aid to my recovery.   
 
 ------------
