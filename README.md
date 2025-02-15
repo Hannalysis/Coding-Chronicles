@@ -139,3 +139,12 @@ It took me some time to realise that not only did I require a custom.t.ds file (
 (which is opposite to how React behaves).  It was a bit of a much-needed hurrah moment when I could hear sound in my Next application, and hopefully this reignition will further aid to my recovery.   
 
 ------------
+
+--- Feb 15th ---  
+2025-02-15
+
+Today I had an opportunity for a dev to talk me through their recent interview technical test. It was so insightful; it was both reassuring to realise how much of it I could understand first-hand, while simultaneously, realising there's sections where I really do lack the knowledge right now.  
+
+They were tasked with manipulating data from an SQLite table seeded with Employee names and Values. Outside of SQLite, their required techstack for this project was to utilise ASP.NET, React & TypeScript.  
+They had to implement basic CRUD functionality to start with, then implement some custom specified queries that enforces the front end to update dynamically every time the data is modified.  
+The dev showed off their form skills and implemented a form within a form, with a visual representation integrated as part of their table on their Front End experience. They also opted to implement test cases utilising Vitest to prove their implementation is robust. 
