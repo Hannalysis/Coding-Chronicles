@@ -147,4 +147,9 @@ Today I had an opportunity for a dev to talk me through their recent interview t
 
 They were tasked with manipulating data from an SQLite table seeded with Employee names and Values. Outside of SQLite, their required techstack for this project was to utilise ASP.NET, React & TypeScript.  
 They had to implement basic CRUD functionality to start with, then implement some custom specified queries that enforces the front end to update dynamically every time the data is modified.  
-The dev showed off their form skills and implemented a form within a form, with a visual representation integrated as part of their table on their Front End experience. They also opted to implement test cases utilising Vitest to prove their implementation is robust. 
+The dev showed off their form skills and implemented a form within a form, with a visual representation integrated as part of their table on their Front End experience. They also opted to implement test cases utilising Vitest to prove their implementation is robust.  
+
+I then finished off the day with some exercises on TypeScript. I managed to covert a basic Rock, Paper Scissors js file into TypeScript, then made a  
+basic web application using TS to fetch and display API data, using a tsconfig to convert TS to JS upon compilation.  
+
+------------
