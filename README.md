@@ -153,3 +153,11 @@ I then finished off the day with some exercises on TypeScript. I managed to conv
 basic web application using TS to fetch and display API data, using a tsconfig to convert TS to JS upon compilation.  
 
 ------------
+
+--- Feb 16th ---  
+2025-02-16
+
+Today I continued with my Typescript Cardio exercise.  
+I had to create a basic REST API utilising Typescript and Express. I had not actually delved into Express for a while, so it was a great return to practice those skills while also learning the nuances between making a backend with js Express instead of ts.  It was surprisingly similar, however the nuances were focused in the ts-node module, the tsconfig settings, and of course, not forgetting the type annotations, ie indluding Request, Response, and void names specified for controller functions.  
+
+------------
