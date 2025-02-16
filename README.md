@@ -161,4 +161,6 @@ Today I continued with my Typescript Cardio exercise.
 
 I had to create a basic REST API utilising Typescript and Express. I had not actually delved into Express for a while, so it was a great return to practice those skills while also learning the nuances between making a backend with js Express instead of ts.  It was surprisingly similar, however the nuances were focused in the ts-node module, the tsconfig settings, and of course, not forgetting the type annotations, ie including Request, Response, and void names specified for controller functions.  
 
+I also finally got some account functionality back with Codecademy after over a month of being unable to progress or start a new course. I used this opportunity to practice some Typescript and make a dent in the 'Learn Typescript' course; 13% complete.
+
 ------------
