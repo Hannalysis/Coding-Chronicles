@@ -166,3 +166,12 @@ I took a break from Typescript to go back to the database hackathon utilising po
 I also finally got some account functionality back with Codecademy after over a month of being unable to progress or start a new course. I used this opportunity to practice some Typescript and make a dent in the 'Learn Typescript' course; 13% complete.
 
 ------------
+
+--- Feb 17th ---  
+2025-02-16
+
+New week at bootcamp, so new module! We were introduced to the Concepts of Cybersecurity, including how the Red and Blue teams operate, and more recently, the collaberation team known as the Purple team.  
+
+After the lecture, I decided to continue my Typescript journey, and completed the Type module inside the 'Learn Typescript' course in Codecademy today; aka 22% complete.
+
+------------
