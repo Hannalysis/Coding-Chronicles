@@ -168,10 +168,19 @@ I also finally got some account functionality back with Codecademy after over a 
 ------------
 
 --- Feb 17th ---  
-2025-02-16
+2025-02-17
 
 New week at bootcamp, so new module! We were introduced to the Concepts of Cybersecurity, including how the Red and Blue teams operate, and more recently, the collaberation team known as the Purple team.  
 
 After the lecture, I decided to continue my Typescript journey, and completed the Type module inside the 'Learn Typescript' course in Codecademy today; aka 22% complete.
+
+------------
+
+--- Feb 18th ---  
+2025-02-18
+
+Another day at bootcamp; learning about security and authorisation, followed by a group exercise to create a basic React App and utilise an Auth tool model - we picked Clerk and it was relatively straight forward to follow!  
+
+After I completed the prep work, I continued my 'Learn Typecript' journey in Codecademy. I completed the Functions section and learnt to set an optional type parameter, you need to use a question mark just after the argument name. 36% complete.
 
 ------------
