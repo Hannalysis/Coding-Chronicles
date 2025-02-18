@@ -181,6 +181,6 @@ After the lecture, I decided to continue my Typescript journey, and completed th
 
 Another day at bootcamp; learning about security and authorisation, followed by a group exercise to create a basic React App and utilise an Auth tool model - we picked Clerk and it was relatively straight forward to follow!  
 
-After I completed the prep work, I continued my 'Learn Typecript' journey in Codecademy. I completed the Functions section and learnt to set an optional type parameter, you need to use a question mark just after the argument name. 36% complete.
+After I completed the prep work, I continued my 'Learn Typecript' journey in Codecademy. I completed the Functions section, and learnt how to set an optional type parameter; you just need to use a question mark just after the argument name. 36% complete.
 
 ------------
