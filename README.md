@@ -192,7 +192,7 @@ Today at SoC we did a hackathon-styled day, one day before our usual hackathon s
 
 Our task was to create a React App with Typescript, to utilise a weather API.  
 My previous learnings of Typscript definately proved useful, although I still ran into some limitations - especially when we had to work out that we needed a conditional render on the API button that would only render the information if the fetch data was successful.  
-Additionally, it was interesting to utilise a '|' optional typing for the fetch component in the instance that if a fetch was going to throw an error, Typescript can still expect an undefined as the altnerative if the data is not fetched.  
+Additionally, it was interesting to utilise a '|' optional typing for the fetch component in the instance that if a fetch was going to throw an error, Typescript can still expect an undefined as the alternative if the data is not fetched.  
 We also had to on the spot show a 60 second demo to the cohort, so I put myself forward to do it; especially as I had navigated quite heavily on our solution today.  
 
 ------------
