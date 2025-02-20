@@ -196,3 +196,10 @@ Additionally, it was interesting to utilise a '|' optional typing for the fetch 
 We also had to on the spot show a 60 second demo to the cohort, so I put myself forward to do it; especially as I had navigated quite heavily on our solution today.  
 
 ------------
+
+--- Feb 20th ---  
+2025-02-20
+
+Personal hackathon today. Will update more tomorrow.  
+
+------------
