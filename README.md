@@ -203,8 +203,9 @@ We also had to on the spot show a 60 second demo to the cohort, so I put myself 
 Personal hackathon today; focused on creating an educational piece of content based around TypeScript, to present it in any format.  
 
 So after a couple of hours researching into advanced features of TypeScript, I landed with TypeScript decorators - partly due to the fact that the concept isnt entirely unfamiliar to me due to my breif encounters with it in Python.  
-I decided I wanted to make short thumbnail recording clips, and wrote two examples of pure TypeScript.  I was surprised how much time I spent just setting this up, there was a lot of steps - so much that it made it to the solution in a small Setup accordian component.  
-Yes, also I decided to host this as a tutorial on a web-page, so practicing with the Next.js tech stack - especially as it's vercels go to.  
+I decided I wanted to make short thumbnail recording clips, and wrote two examples of pure TypeScript.  I was surprised how much time I spent just setting this up, there were a lot of steps.
+
+ As for the solution type, I wanted to host this as a tutorial on a web-page, so practicing with the Next.js tech stack - especially as it's vercels go to.  
 
 ------------
 
@@ -212,5 +213,6 @@ Yes, also I decided to host this as a tutorial on a web-page, so practicing with
 2025-02-21
 
 Personal hackathon today. Will update more tomorrow.  
+ note: Setup accordian component.  
 
 ------------
