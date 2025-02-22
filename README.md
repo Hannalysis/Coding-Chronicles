@@ -216,3 +216,14 @@ Personal hackathon today. Will update more tomorrow.
  note: Setup accordian component.  
 
 ------------
+
+--- Feb 22th ---  
+2025-02-22
+
+After finishing up with the course module from SoC, I decided to do some prep for next week's AI module.  
+
+I delved into the Datacamp's free AI course for Prompt Engineering, and managed to complete it in 2 sessions.  I was surprised to learn about the prompt methods; especially the multi-shot tactic, md style for emphasis on certain words/phrasing for the focus in the response, 
+and the ability to ask the AI if the information asked for is newer than it's cutoff point/last update, please reply with you do not know.  
+It was also good to practice the SALT - Style, Audience, Length and Tone.  
+
+------------
