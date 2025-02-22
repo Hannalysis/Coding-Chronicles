@@ -203,17 +203,21 @@ We also had to on the spot show a 60 second demo to the cohort, so I put myself 
 Personal hackathon today; focused on creating an educational piece of content based around TypeScript, to present it in any format.  
 
 So after a couple of hours researching into advanced features of TypeScript, I landed with TypeScript decorators - partly due to the fact that the concept isnt entirely unfamiliar to me due to my breif encounters with it in Python.  
-I decided I wanted to make short thumbnail recording clips, and wrote two examples of pure TypeScript.  I was surprised how much time I spent just setting this up, there were a lot of steps.
+I decided I wanted to make short thumbnail recording clips, and wrote two examples of pure TypeScript.  I was surprised how much time I spent just setting this up, there were a lot of steps.  
 
- As for the solution type, I wanted to host this as a tutorial on a web-page, so practicing with the Next.js tech stack - especially as it's vercels go to.  
+As for the solution type, I wanted to host this as a tutorial on a web-page, so practicing with the Next.js tech stack - especially as it's vercels go to.  
 
 ------------
 
 --- Feb 21th ---  
 2025-02-21
 
-Personal hackathon today. Will update more tomorrow.  
- note: Setup accordian component.  
+I managed to get the video content, and basic layout rendering as intended. However after learning how many steps it takes to successfully compile and run a pure TypeScript file, I decided to add an accordian component so when clicked, 
+there is a list of instructions to set setup in VSCode. My version 0 was completed, and served up by vercel: content-hackathon.vercel.app.  
+
+When we were sharing our hackathons with one another at bootcamp, one of my colleagues managed to stumble into a light mode only issue - turns out I had conflicting media queries setup! So I made that fix later that evening!  
+
+And after that, that was me done for the day - I collapsed on the sofa for about 9 hours straight. But I'm not done with the app yet! As I mentioned in my social media post with this, I intended to make small incremental updates soon.
 
 ------------
 
@@ -225,5 +229,11 @@ After finishing up with the course module from SoC, I decided to do some prep fo
 I delved into the Datacamp's free AI course for Prompt Engineering, and managed to complete it in 2 sessions.  I was surprised to learn about the prompt methods; especially the multi-shot tactic, md style for emphasis on certain words/phrasing for the focus in the response, 
 and the ability to ask the AI if the information asked for is newer than it's cutoff point/last update, please reply with you do not know.  
 It was also good to practice the SALT - Style, Audience, Length and Tone.  
+
+After a decent rest, I decided to do a couple of pomodoro's worth of Learning Typescript in Codecademy, where I learnt how to set tuples ie:  
+     
+    let favoriteCoordinates: [number, number, string, number, number, string] = [40, 43.2, 'N', 73, 59.8, 'W'];
+
+And I also learnt how to compare an element in Javascript to a particular typeof. 45% complete.
 
 ------------
