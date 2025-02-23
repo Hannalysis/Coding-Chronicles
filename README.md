@@ -237,3 +237,23 @@ After a decent rest, I decided to do a couple of pomodoro's worth of Learning Ty
 And I also learnt how to compare an element in Javascript to a particular typeof. 45% complete.
 
 ------------
+
+--- Feb 23th ---  
+2025-02-23  
+
+I started this morning by looking at a side project plan, and writing some thoughts and risks for a particular feature.  
+
+I then did a couple of Pomodoro sessions in the Learning TypeScript course in Codecademy. The difficulty is ramping up, and I already have alot of new concepts to digest, including:  
+enums (including the stricter String variants!), object type annotations (both in function setting and variable assignment), Function Types, and Aliases.  
+I particularly found the alias section interesting, because I could quickly see the appeal of avoiding duplication typing annotations, like with this example:  
+
+    type Person = { name: string, age: number };
+     let aCompany: {
+       companyName: string, 
+       boss: Person, 
+       employees: Person[], 
+       employeeOfTheMonth: Person,  
+       moneyEarned: number
+     };
+
+------------
