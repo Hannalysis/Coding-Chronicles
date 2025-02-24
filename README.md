@@ -265,4 +265,6 @@ Spent today at SoC on the topic centred around AI and data.
 
 Outside of that, I decided to do an audio and video version of my 2 TypeScript tutorials I made last week - which meant outside of going through the motions of the tutorial inside VSCode most of my time was spent inside wrestling with Openshot Editor, then Cubase.  
 
+After a much-needed break, I finished the day by adding a couple of updates to my TypeScript Decorators tutorial - by adding proper mobile viewability, and adding a pointer cursor for the accordion component in desktop mode.  
+
 ------------
