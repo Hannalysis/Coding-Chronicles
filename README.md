@@ -257,3 +257,12 @@ I particularly found the alias section interesting, because I could quickly see 
      };
 
 ------------
+
+--- Feb 24th ---  
+2025-02-24
+
+Spent today at SoC on the topic centred around AI and data.  
+
+Outside of that, I decided to do an audio and video version of my 2 TypeScript tutorials I made last week - which meant outside of going through the motions of the tutorial inside VSCode most of my time was spent inside wrestling with Openshot Editor, then Cubase.  
+
+------------
