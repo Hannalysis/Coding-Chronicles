@@ -268,3 +268,12 @@ Outside of that, I decided to do an audio and video version of my 2 TypeScript t
 After a much-needed break, I finished the day by adding a couple of updates to my TypeScript Decorators tutorial - by adding proper mobile viewability, and adding a pointer cursor for the accordion component in desktop mode.  
 
 ------------
+
+--- Feb 25th ---  
+2025-02-25  
+
+After another information-packed day at SoC, I wanted to get my README file sorted out for my [https://github.com/Hannalysis/content-hackathon] so I could finally make it public.  
+
+It also gave me a space to place my intended updates and features, and to keep accountability, in addition to my linkedin post late last week.  
+
+------------
