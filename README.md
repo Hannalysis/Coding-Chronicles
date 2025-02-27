@@ -277,3 +277,8 @@ After another information-packed day at SoC, I wanted to get my README file sort
 It also gave me a space to place my intended updates and features, and to keep accountability, in addition to my linkedin post late last week.  
 
 ------------
+
+--- Feb 27th ---  
+2025-02-27  
+
+Hackathon today - will update tomorrow!
