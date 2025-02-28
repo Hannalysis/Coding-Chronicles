@@ -282,3 +282,10 @@ It also gave me a space to place my intended updates and features, and to keep a
 2025-02-27  
 
 Hackathon today - will update tomorrow!
+
+------------
+
+--- Feb 28th ---  
+2025-02-28  
+
+Hackathon & presentation today - will update tomorrow!
