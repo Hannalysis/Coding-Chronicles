@@ -281,7 +281,13 @@ It also gave me a space to place my intended updates and features, and to keep a
 --- Feb 27th ---  
 2025-02-27  
 
-Hackathon today - will update tomorrow!
+Hackathon today at SoC!  
+
+Today we had to create a project that utilised Pinecone; aka a company focused on RAG AI chatbots. These, are designed to reference specific datasets, vectorise them, and allows user prompts to get more personalised results due to the data they are referencing.  
+We utilised their assistance template, and used that to create an app that allows the user to ask questions to troubleshoot issues with their car (with the appropriate car manuals referenced in the index).  
+
+As a team we generated our app utilising some boilerplate Python code, which was generated in a Next.js app, with Tailwind styling.  I took it upon myself and another teammate to get a handle of tailwind tonight, start trying things out to submit a more personal demo  
+for tomorrows presentation.  
 
 ------------
 
