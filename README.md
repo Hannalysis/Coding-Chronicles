@@ -294,4 +294,9 @@ for tomorrows presentation.
 --- Feb 28th ---  
 2025-02-28  
 
-Hackathon & presentation today - will update tomorrow!
+Hackathon & presentation today!  
+
+It was great to put some more finishing touches with tailwind with my teammate this morning, and then return to the overall team to help finish up the presentation.  
+It was a knackering end to an already intensive week so I rested for the reminder of the day.  
+
+------------
