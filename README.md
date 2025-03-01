@@ -6,6 +6,6 @@
 --- March 1st ---  
 2025-03-01
 
-After finishing up this week's module in SoC on AI & Data, I started researching into JavaScript snippets, and recapped on certain aspects of Chrome's DevTools.  
+After finishing up this week's module in SoC on AI & Data, I looked into utilising JavaScript snippets, and recapped on certain aspects of Chrome's DevTools.  
 
 ------------ 
