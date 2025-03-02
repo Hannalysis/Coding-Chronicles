@@ -9,3 +9,8 @@
 After finishing up this week's module in SoC on AI & Data, I looked into utilising JavaScript snippets, and recapped on certain aspects of Chrome's DevTools.  
 
 ------------ 
+
+--- March 2nd ---  
+2025-03-02
+
+Busy day today, will update shortly.
