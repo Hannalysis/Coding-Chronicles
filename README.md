@@ -13,4 +13,11 @@ After finishing up this week's module in SoC on AI & Data, I looked into utilisi
 --- March 2nd ---  
 2025-03-02
 
-Busy day today, will update shortly.
+Busy day today, will update shortly.  
+
+------------ 
+
+--- March 3rd ---  
+2025-03-03
+
+Busy day again today, will update shortly.
