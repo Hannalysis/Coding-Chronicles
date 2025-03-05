@@ -44,6 +44,6 @@ Today was our first build day. I took my role as lead and made sure we had a tas
 
 We then divided and conquered, and I spent time helping my colleague with some initial tailwinding, and understanding our current code we'd been pulling down from other members as the merges to main came in.  
 After some thorough navigation and liasing with the rest of my members at various intervals, I found some time in the evening to style our google places images - and that was no easy feat.  
-Ultimately, I had to create containers to manipulate the images indirectly, and accept the the location information would not be displayed inside the boxes (as it affected the images too much). If everyone agrees, I will take the text outside of that component and display it underneath instead, if its needed.   
+Ultimately, I had to create containers to manipulate the images indirectly, and accept that the location information would not be displayed inside the boxes (as it affected the images too much). If everyone agrees, I will take the text outside of that component and display it underneath instead, if its needed.   
 
 ------------ 
