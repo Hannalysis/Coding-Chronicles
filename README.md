@@ -36,3 +36,14 @@ During SoC, we transitioned from our initial planning phase, to setting out our 
 We spent quite a bit of time there due to having to edit our original vision, as our expectations of utilising an API from OS was quite restricting and we thought it would take a long time to manipulate it in a way that would solve our problem statement.  
 
 ------------ 
+
+--- March 5th ---  
+2025-03-05  
+
+Today was our first build day. I took my role as lead and made sure we had a task list of issues made in github, and appropriately assigned to everyone.  I made sure everyone had a clear idea of what their priorities were and whether they had enough information to execute our tasks.  
+
+We then divided and conquered, and I spent time helping my colleague with some initial tailwinding, and understanding our current code we'd been pulling down from other members as the merges to main came in.  
+After some thorough navigation and liasing with the rest of my members at various intervals, I found some time in the evening to style our google places images - and that was no easy feat.  
+Ultimately, I had to create containers to manipulate the images indirectly, and accept the the location information would not be displayed inside the boxes (as it affected the images too much). If everyone agrees, I will take the text outside of that component and display it underneath instead, if its needed.   
+
+------------ 
