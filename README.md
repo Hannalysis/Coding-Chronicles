@@ -47,3 +47,10 @@ After some thorough navigation and liasing with the rest of my members at variou
 Ultimately, I had to create containers to manipulate the images indirectly, and accept that the location information would not be displayed inside the boxes (as it affected the images too much). If everyone agrees, I will take the text outside of that component and display it underneath instead, if its needed.   
 
 ------------ 
+
+--- March 6th ---  
+2025-03-06
+
+Full on hackathon today - busy, will update this properly shortly.
+
+------------ 
