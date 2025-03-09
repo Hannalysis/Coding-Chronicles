@@ -51,6 +51,27 @@ Ultimately, I had to create containers to manipulate the images indirectly, and 
 --- March 6th ---  
 2025-03-06
 
-Full on hackathon today - busy, will update this properly shortly.
+Full on hackathon day today!  
+
+I started by taking on one of my roles the nominated decision maker, which also allowed an easy format to drive our next steps, priorities and written issues that required populating, delegating and requesting a window for an update with other members.  
+
+I then focused on updating the front-end with one of my team members for the day, and managed to get a clean and uniform visual display, in a format that suits mobile devices first.  
+
+With the app in a good space by the EoD, I took responsibility to fetch out a detailed readme as one of the repo's final touches, ready to merge to main the folllowing morning.  
 
 ------------ 
+
+--- March 7th ---  
+2025-03-07  
+
+Today was full on presentation planning and presentation day with an official webinar, to showcase in front of potential employers.  
+I was fully knackered after that and a SoC online social, so I took the evening off to rest.  
+
+------------ 
+
+--- March 9th ---  
+2025-03-09
+
+I had to take yesterday off, I was brain-dead, exhausted, not just from the week at SoC but from everything that was going on outside of that too (what timing!).  
+
+Today I started with getting some articulation practice with a fellow developer, with my code-snippet I created a few days prior.  
