@@ -57,7 +57,7 @@ I started by taking on one of my roles the nominated decision maker, which also 
 
 I then focused on updating the front-end with one of my team members for the day, and managed to get a clean and uniform visual display, in a format that suits mobile devices first.  
 
-With the app in a good space by the EoD, I took responsibility to fetch out a detailed readme as one of the repo's final touches, ready to merge to main the folllowing morning.  
+With the app in a good space by the EoD, I took responsibility to flesh out a detailed readme as one of the repo's final touches, ready to merge to main the folllowing morning.  
 
 ------------ 
 
