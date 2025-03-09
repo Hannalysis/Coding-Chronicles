@@ -74,4 +74,4 @@ I was fully knackered after that and a SoC online social, so I took the evening 
 
 I had to take yesterday off, I was brain-dead, exhausted, not just from the week at SoC but from everything that was going on outside of that too (what timing!).  
 
-Today I started with getting some articulation practice with a fellow developer, with my code-snippet I created a few days prior.  
+Today I started with getting some code articulation practice with a fellow developer, with my code-snippet I created a few days prior.  
