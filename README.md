@@ -79,3 +79,14 @@ Today I started with getting some code articulation practice with a fellow devel
 I then spent the rest of my coding session creating a lesson plan for a Python tutorial - and also created the project exercise in question. 
 
 ------------ 
+
+--- March 10th ---  
+2025-03-10
+
+After the post SoC Employability session, and post tech-test interview, I needed a break before getting back to work.  
+
+I managed to get back to my Python tutorial - refined the project I want to teach; by simplifying the code, and abtsracting away a couple of lengthy functions that take away from the focus of the learnings from the lesson. 
+
+I updated my plan of action, and a flow of the expected execution of code order. I will start tomorrow by finding how best to break these down into segments and which area of code would make sense to teach from beginning to end.  
+
+------------ 
