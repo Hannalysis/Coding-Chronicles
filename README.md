@@ -90,3 +90,8 @@ I managed to get back to my Python tutorial - refined the project I want to teac
 I updated my plan of action, and a flow of the expected execution of code order. I will start tomorrow by finding how best to break these down into segments and which area of code would make sense to teach from beginning to end.  
 
 ------------ 
+
+--- March 11th ---  
+2025-03-11 
+
+I spent today working on my Python tutorial. Will update more tomorrow.
