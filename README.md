@@ -94,4 +94,20 @@ I updated my plan of action, and a flow of the expected execution of code order.
 --- March 11th ---  
 2025-03-11 
 
-I spent today working on my Python tutorial. Will update more tomorrow.
+I spent today working on my Python tutorial.  
+
+I broke down the code into small segments - to enable a focus for each segment of the tutorial.  I then wrote each code challenge in a separate segment to complement the segment that completes it.  
+This was a surprisingly time consuming process, and involved going back to the drawing (figma) board to adjust my planning and make sure I was record-ready for tomorrow.  
+
+------------ 
+
+--- March 12th ---  
+2025-03-12
+
+So today was the recording session.  
+
+It took me alot longer than I thought, and I realised this tutorial is longer than I had expected. However, after a few hours (and many piecemeal re-takes) we've got a tutorial with full audio, and visual vs code throughout the timeline, with the appropriate challenges appearing as and when.  
+Tomorrow, will be the major editing session - and trying to fit in some additional visuals inside the timeline if possible.  
+If I get time, I will also pack-up supplements, finish the documentation and it will be ready to submit!  
+
+------------ 
