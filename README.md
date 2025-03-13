@@ -110,4 +110,11 @@ It took me alot longer than I thought, and I realised this tutorial is longer th
 Tomorrow, will be the major editing session - and trying to fit in some additional visuals inside the timeline if possible.  
 If I get time, I will also pack-up supplements, finish the documentation and it will be ready to submit!  
 
------------- 
+------------  
+
+--- March 13th ---  
+2025-03-13
+
+Today I spent the best of the day editing the session - once pieced together, it was surprisingly double what I was expecting; a 14 minute video! 
+
+------------  
