@@ -123,5 +123,6 @@ Today I spent the best of the day editing the session - once pieced together, it
 2025-03-14
 
 This week has been surprisingly intensive. So I spent today doing some minor tweaks to my main CV template, and updating with last week's SoC final project.  
+I finished the day with uploading a couple of old Python projects, and will likely start a small-scale one over the weekend to incorporate some data visualisations.  
 
 ------------  
