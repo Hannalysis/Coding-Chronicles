@@ -118,3 +118,10 @@ If I get time, I will also pack-up supplements, finish the documentation and it 
 Today I spent the best of the day editing the session - once pieced together, it was surprisingly double what I was expecting; a 14 minute video! 
 
 ------------  
+
+--- March 14th ---  
+2025-03-14
+
+This week has been surprisingly intensive. So I spent today doing some minor tweaks to my main CV template, and updating with last week's SoC final project.  
+
+------------  
