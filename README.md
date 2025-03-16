@@ -138,6 +138,6 @@ So today I started exploring into generating heatmaps, and what would be best se
 I quickly discovered streamlit, which, even though I currently intend to utilise locally for the time being, I could utilise their deployment services in the future and as when I needed to.  So I started with testing dummy data with Seaborn to check the basic functionality.  
 
 Once I started delving into what particular datasets would I like to showcase, I realised that basic heatmaps may not be enough.   
-When geospatial visualisations are required, I discovered the folium module (which, also happened to work alongside streamlit as it has it's own module (streamlit_folium) with the st_folium to allow the map to render with streamlit.  So I tested this visual with more dummy data and decided that this (or a combination of this and basic heatmaps) would be perfect for my dataset of choice.  
+When geospatial visualisations are required, I discovered the folium module which, also happened to work alongside streamlit as it has it's own module (streamlit_folium) with the st_folium to allow the map to render with streamlit.  So I tested this visual with more dummy data and decided that this (or a combination of this and basic heatmaps) would be perfect for my dataset of choice.  
   
 ------------  
