@@ -126,3 +126,18 @@ This week has been surprisingly intensive. So I spent today doing some minor twe
 I finished the day with uploading a couple of old Python projects, and will likely start a small-scale one over the weekend to incorporate some data visualisations.  
 
 ------------  
+
+--- March 16th ---  
+2025-03-16
+
+Yesterday, was a very much needed rest and reset - with only a sprinkle of code planning in preparation for today.  
+
+So, I wanted to start to see what catering towards a junior data analytical role could look like. Even though I've completed many small scale projects in Python, I am yet to showcase any data visualisations (outside of my personal project which is ironically not utilising a Python module).  
+
+So today I started exploring into generating heatmaps, and what would be best served as a front-end for it.  
+I quickly discovered streamlit, which, even though I currently intend to utilise locally for the time being, I could utilise their deployment services in the future and as when I needed to.  So I started with testing dummy data with Seaborn to check the basic functionality.  
+
+Once I started delving into what particular datasets would I like to showcase, I realised that basic heatmaps may not be enough.   
+When geospatial visualisations are required, I discovered the folium module (which, also happened to work alongside streamlit as it has it's own module (streamlit_folium) with the st_folium to allow the map to render with streamlit.  So I tested this visual with more dummy data and decided that this (or a combination of this and basic heatmaps) would be perfect for my dataset of choice.  
+  
+------------  
