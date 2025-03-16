@@ -139,5 +139,7 @@ I quickly discovered streamlit, which, even though I currently intend to utilise
 
 Once I started delving into what particular datasets would I like to showcase, I realised that basic heatmaps may not be enough.   
 When geospatial visualisations are required, I discovered the Folium module which, also happened to work alongside Streamlit as it has it's own module (streamlit_folium) with the st_folium function to allow the map to render with Streamlit.  So I tested this visual with more dummy data and decided that this (or a combination of this and basic heatmaps) would be perfect for my dataset of choice.  
+
+I managed to end the day with a basic MVP; a modestly sized data sample in a dataframe, a geospatial map, and an accompanying readme for future milestones for my new project winds-of-change.
   
 ------------  
