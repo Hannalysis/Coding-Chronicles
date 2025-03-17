@@ -143,3 +143,12 @@ When geospatial visualisations are required, I discovered the Folium module whic
 I managed to end the day with a basic MVP; a modestly sized data sample in a dataframe, a geospatial map, and an accompanying readme for future milestones for my new project winds-of-change.
   
 ------------  
+
+--- March 17th ---  
+2025-03-17
+
+After an intensive day yesterday, I looked at my prioities for today, and decided to keep it short.  
+
+I started with branching off from my CV repo, in both a data-analysis & front-end focused directions, in order to tailor appropriate project content for those applications.  I also noticed I had not yet forked and created a readme for one of the relevant hackathons, so I bashed that out and added it to my front-end CV.   
+
+------------  
