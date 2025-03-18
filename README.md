@@ -152,3 +152,13 @@ After an intensive day yesterday, I looked at my prioities for today, and decide
 I started with branching off from my CV repo, in both a data-analysis & front-end focused directions, in order to tailor appropriate project content for those applications.  I also noticed I had not yet forked and created a readme for one of the relevant hackathons, so I bashed that out and added it to my front-end CV.   
 
 ------------  
+
+--- March 18th ---  
+2025-03-18
+
+With my time available today, I started to plan my portfolio website!  
+
+I managed to decide the domain site, hosting options, tech stack, and did some mock up frames for what a mobile first portfolio site could look like.  I also chose a colour scheme and theme.  With what I had, I wanted to experiement with component ideas, so I played with the v0 tool, asked it to create some framer motion and css animated transitions to see what could work for me.  
+So, even though I'm not using Next.js for my portfolio site, it's proving a very useful playground to tinker with some visual designs!  
+
+------------  
