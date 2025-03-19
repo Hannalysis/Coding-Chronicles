@@ -169,6 +169,6 @@ So, even though I'm not using Next.js for my portfolio site, it's proving a very
 After a busy morning, I decided to take it easy this afternoon.  
 
 It's been a while since I approached some Codecademy, so I decided to continue my TypeScript course; now 54% complete.  
-I'm currently finding it a little tricky to grasp generic types, however it is a powerful feature in the sense that we can define our own collections of object types - so I'm hoping the complex feelings will begin to shimmer away as I learn more in the upcoming days!
+I'm currently finding it a little tricky to grasp generic types, however it is a powerful feature in the sense that we can define our own collections of object types - so I'm hoping the struggles of this will begin to simmer away as I learn more in the upcoming days!
 
 ------------  
