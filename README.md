@@ -172,3 +172,13 @@ It's been a while since I approached some Codecademy, so I decided to continue m
 I'm currently finding it a little tricky to grasp generic types, however it is a powerful feature in the sense that we can define our own collections of object types - so I'm hoping the struggles of this will begin to simmer away as I learn more in the upcoming days!
 
 ------------  
+
+--- March 20th ---  
+2025-03-20  
+
+Today I finally had a moment to research and explore current projects out there, to help initially plan and shape the collaberative project I'm working on.  
+During my meeting with my mentor, we also had time to make some initial tech stack decisions, what the initial MVP should look like, and our next initial steps if time allows.  I'm very excited to get going with this, as it's been in the talking stage for over a month!  
+
+Outside of this, I decided to practice my front-end skills by tinkering around in Next.js with framer motion.  This included the motion, AnimatePresence, useInView, useScroll & useTransform. I made a dummy audio meter style component, and an animated drawn aztec/tech mashup divider for each section to see what works and what didn't.  I also tried a nav-header but saw a clash with the about me pull-out overlay tab, so I will have to make some decisions on what I'll stick with when I make my proper repo for my portfolio shortly.  
+
+------------ 
