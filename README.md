@@ -182,3 +182,10 @@ During my meeting with my mentor, we also had time to make some initial tech sta
 Outside of this, I decided to practice my front-end skills by tinkering around in Next.js with framer motion.  This included the motion, AnimatePresence, useInView, useScroll & useTransform. I made a dummy audio meter style component, and an animated drawn aztec/tech mashup divider for each section to see what works and what didn't.  I also tried a nav-header but saw a clash with the about me pull-out overlay tab, so I will have to make some decisions on what I'll stick with when I make my proper repo for my portfolio shortly.  
 
 ------------ 
+
+--- March 21th ---  
+2025-03-21
+
+After today's employability session at SoC, I opted for an easy day with some minor tweaks to my CV repo, before taking the remainder of the afternoon to rest and recover.
+
+------------ 
