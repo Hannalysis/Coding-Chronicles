@@ -186,6 +186,7 @@ Outside of this, I decided to practice my front-end skills by tinkering around i
 --- March 21th ---  
 2025-03-21
 
-After today's employability session at SoC, I opted for an easy day with some minor tweaks to my CV repo, before taking the remainder of the afternoon to rest and recover.
+After today's employability session at SoC, I opted for an easy day with some minor tweaks to my CV repo, before taking the remainder of the afternoon to rest and recover.  
+By the evening, I had a bit of inspiration to try out a few more component ideas whilst I'd been thinking about my portfolio in the background, and added those to my figma board.
 
 ------------ 
