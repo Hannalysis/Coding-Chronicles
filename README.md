@@ -190,3 +190,14 @@ After today's employability session at SoC, I opted for an easy day with some mi
 By the evening, I had a bit of inspiration to try out a few more component ideas whilst I'd been thinking about my portfolio in the background, and added those to my figma board.
 
 ------------ 
+
+--- March 22nd ---  
+2025-03-22
+
+Right, no more dilly-dallying! Today is the day where I began to build my portfolio. I am excited, nervous and eager to get going with this.  
+
+I'm so glad I spent appropriate time in the prototyping stage - I ended up mocking up two quite different websites with different functionality, but with the same theming - which meant I really could pick out what worked from each to make my product with.  
+After successfully initialising the project, I got the inital hamburger and nav-header functionality, a basic Home Page, and a almost fully-fleshed out About Me section.  This is all mobile-first and reacts appropriately for multiple size readjustments.  
+I'm suitably happy with my progress today, and cannot wait to continue into this more tomorrow!
+
+------------ 
