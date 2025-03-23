@@ -206,10 +206,11 @@ I'm suitably happy with my progress today, and cannot wait to continue into this
 2025-03-23
 
 Today I continued my work on my portfolio site!  
-
+  
 I warmed up with a quick bit of bug fixing; I have a chevron to indicate a scroll from my Home page, however on every device it was not showing properly, so I had to adjust the vh percentage, and made a couple of bespoke media queries for the extra small devices.  
 After that, I focused my efforts on my Continued Learning section (especially after being quite indecisive on how to showcase my projects!). I implemented a vertical timeline, split on left and right for better visibility and spacing on desktops (it truncates to a single column timeline on smaller devices).  
 It also contains split icon and information, depending whether the learning was a particular study, or an official certification.  I also implemented a scroll feature so when I ultimately have more to add, the user does not have to endlessly look through it.  
+
 I found quite a few bugs with this implementation, especially surrounding the timeline line length, which had to effectively be calculated on a re-render to be long enough for each device.  
 Once that was sorted, I placed in my actual content and links where appropriate, and pushed my commits for the day. It wasn't quite as speedy as yesterday's implementation by comparison, but I have taken away lots of learnings today and am happy with my overall progress on this project so far.  
 
