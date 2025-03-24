@@ -215,3 +215,22 @@ I found quite a few bugs with this implementation, especially surrounding the ti
 Once that was sorted, I placed in my actual content and links where appropriate, and pushed my commits for the day. It wasn't quite as speedy as yesterday's implementation by comparison, but I have taken away lots of learnings today and am happy with my overall progress on this project so far.  
 
 ------------ 
+
+--- March 24th ---  
+2025-03-24
+
+Another day, another chance for more prog on the portfolio site!  
+
+Today, I spent the majority of my time with the project carousel. Gosh, it was a struggle, especially with balancing tech stack icons, subtitles, link and the image in both mobile and desktop settings. Getting the image to look right, and not have the project card re-adjust its size too much? I ended up with a compromise, and accepting slightly different card sizes so the images of the projects could shine, and all text, icons, links were unaffected.  
+
+One bit of styling magic that did help me today, was this: 
+
+    .projectTags .tag:nth-child(n+4) {
+      display: none; /* Hide 4th and beyond icons */
+    }
+
+ so effectively, if I had more than 3 tech stack icons showing on that project card - it would not showing any additional ones! Which was fantastic as a media query, and gave me a bit of flexibility back for the desktop version.  
+
+After this, I finsihed up the day with adding a fairly straight forward contact me component. Tomorrow, final dividers, anims, and polish!  
+
+------------ 
