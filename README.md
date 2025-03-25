@@ -234,3 +234,8 @@ One bit of styling magic that did help me today, was this:
 After this, I finsihed up the day with adding a fairly straight forward contact me component. Tomorrow, final dividers, anims, and polish!  
 
 ------------ 
+
+--- March 25th ---  
+2025-03-25
+
+Worked on site all day. Had teething problems with trying to buy a domain and hosting service. Will update more tomorrow.
