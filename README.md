@@ -238,4 +238,10 @@ After this, I finsihed up the day with adding a fairly straight forward contact 
 --- March 25th ---  
 2025-03-25
 
-Worked on site all day. Had teething problems with trying to buy a domain and hosting service. Will update more tomorrow.
+More site building today! 
+
+I spent the first part toying with the carousel, varying heights make for unfriendly (and bouncy chevrons). After settling with good enough (I will make a point to focus on these at a later stage, or a feature overhaul entirely), I wrote down a list of polish/decorative features and got to work.  
+Most of that, was making the animated dividers, by using the motion draw/path feature in motion. It required a bit of patience, but I'm happy with how it turned out (and how much of it displays depending on the various screen sizes). 
+I then gave some light animation to the Home and Contact content, and a light colour brush hover effect on my name for desktop. I then spent the rest of my time bug fixing before purchasing a domain.  Tomorrow, deployment!  
+
+------------
