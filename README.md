@@ -245,3 +245,13 @@ Most of that, was making the animated dividers, by using the draw/path feature i
 I then gave some light animation to the Home and Contact content, and a light colour brush hover effect on my name for desktop. I then spent the rest of my time bug fixing before purchasing a domain.  Tomorrow, deployment!  
 
 ------------
+
+--- March 27th ---  
+2025-03-27
+
+After a tedious exploration and attempting to buy a couple of different hosting services, I managed to settle with a domain from one place, and hosting on another.  
+
+I wanted to take a much-needed break from working on my portfolio and spent my dedicated learning segment to doing some revisiting security measures with front-end coding syntax, as well as revising some basic React concepts.  
+I then ended the day with a continuation into the 'Learning TypeScript' course in Codecademy. I managed to complete the very appropriately named 'complex types' (I really struggled with this section), and started looking at union types. 59% Complete.
+
+------------
