@@ -266,7 +266,7 @@ Quick, it was not. I thought I could make a quick HTML doc with the github icon 
 It did not look great, especially with the Dancing Script font style - taking any background out of the loops in the handwriting style caused a pixelated side effect.  
 
 Once I gave myself time to think, I decided for a different approach. I quickly found out that canva had templates for linkedin banners. Although I did not use one, I placed my own image on their blank template, and realised I could use the font I wanted in canva to layer my text over the banner with ease.  
-I then imported this into Gimp and only used the transparancy effects with the github icon and that worked out much better.  I did also find I have to de-saturate the background (with sepia tones) to make the text more readable.  It's not perfect, but it's an improvement, so it's on my page for now.  
+I then imported this into Gimp and only used the transparancy effects with the github icon and that worked out much better.  I did also find that I had to de-saturate the background (with sepia tones) to make the text more readable.  It's not perfect, but it's an improvement, so it's on my page for now.  
 I do intend to completely re-make my linkedin banner to closely match my portfolio design (and CV) in the near future. Just not today! 
 
 ------------
