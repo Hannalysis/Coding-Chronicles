@@ -256,3 +256,17 @@ I wanted to take a much-needed break from working on my portfolio and spent my d
 I then ended the day with a continuation into the 'Learning TypeScript' course in Codecademy. I managed to complete the very appropriately named 'complex types' (I really struggled with this section), and started looking at union types. 59% Complete.  
 
 ------------
+
+--- March 29th ---  
+2025-03-29
+
+I wanted to try something a bit more straightforward today, and wanted to 'quickly' edit my linkedin banner, to show my github username.  
+
+Quick, it was not. I thought I could make a quick HTML doc with the github icon loaded in, and style my name as intended. I'd then use Gimp to make the background of the name and icon transparant, and add that to the original background layer.  
+It did not look great, especially with the Dancing Script font style - taking any background out of the loops in the handwriting style caused a pixelated side effect.  
+
+Once I gave myself time to think, I decided for a different approach. I quickly found out that canva had templates for linkedin banners. Although I did not use one, I placed my own image on their blank template, and realised I could use the font I wanted in canva to layer my text over the banner with ease.  
+I then imported this into Gimp and only used the transparancy effects with the github icon and that worked out much better.  I did also find I have to de-saturate the background (with sepia tones) to make the text more readable.  It's not perfect, but it's an improvement, so it's on my page for now.  
+I do intend to completely re-make my linkedin banner to closely match my portfolio design (and CV) in the near future. Just not today! 
+
+------------
