@@ -270,4 +270,6 @@ I then imported this into Gimp and only used the transparancy effects with the g
 
 I do intend to completely re-make my linkedin banner to closely match my portfolio design (and CV) in the near future. Just not today! 
 
+I got a bit of a second-wind this evening, and decided to continue learning more about Union Types, and therefore type narrowing. Learn TypeScript course progress: 68%.  
+
 ------------
