@@ -291,5 +291,7 @@ I have a new website to create - so I started with a text-based plan, brainstorm
 After a much needed break and walk in the beautiful sunshine, I did a mobile-first detailed pen sketch wireframe, with a couple of variants for the desktop version.  It took a while as I'd written a fair amount of additional notes, especially in regards to how I'd action the animation and react feel.  
 I may have accidently given myself a bigger challenge than I had originally intended. We shall see how the implementation goes tomorrow.  
 
+I then decided to finish the day with a bit of TypeScript learning, now finished the section of Type Unions. 'Learn TypeScript' 72% Complete.  
+
 ------------
 
