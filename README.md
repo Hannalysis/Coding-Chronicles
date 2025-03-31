@@ -273,3 +273,23 @@ I do intend to completely re-make my linkedin banner to closely match my portfol
 I got a bit of a second-wind this evening, and decided to continue learning more about Union Types, and therefore type narrowing. Learn TypeScript course progress: 68%.  
 
 ------------
+
+--- March 30th ---  
+2025-03-30
+
+Small update today - I made a couple of fixes to my portfolio site; one to make it more secure, and two, to eradicate some pesky console.logs I'd accidently left running on the production build.  
+
+------------
+
+--- March 31st ---  
+2025-03-31
+
+Today I returned to the design table.  
+
+I have a new website to create - so I started with a text-based plan, brainstormed with some images and patterns for reference, and created a few appropriate colour palette options.  
+
+After a much needed break and walk in the beautiful sunshine, I did a mobile-first detailed pen sketch wireframe, with a couple of variants for the desktop version.  It took a while as I'd written a fair amount of additional notes, especially in regards to how I'd action the animation and react feel.  
+I may have accidently given myself a bigger challenge than I had originally intended. We shall see how the implementation goes tomorrow.  
+
+------------
+
