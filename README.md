@@ -26,3 +26,5 @@ Overall, this section was not as difficult as I thought it would be. It feels go
 After that, I ended the day by adding content to my Continued Learning section of my portfolio site, and decided to add a couple of meta tags to my index. Unfortunately the og: image is not rendering at an appropriate size, so I'll look into fixing that next time I look at my site.  
 
 ------------ 
+
+<div align = "center"><i><a href="2025-03.md">March 2025</a></i></div>
