@@ -27,4 +27,20 @@ After that, I ended the day by adding content to my Continued Learning section o
 
 ------------ 
 
+--- April 4th ---  
+2025-04-04
+
+Today, I decided to get back to my data analysis project, Winds of Change.  
+
+After a brief re-familiarisation with the code, and adjusting the columns I'd like to view for the dataframe (and making sure I did not edit the folium data with a column it wasn't expecting...so it would still render); I started to make a plan regarding the data I have.  
+Just shy of 3 million entries of weather data, in a CSV file. Placing that in my drive to convert to a google sheet, outright did not work as there was just too much information. So I spent a decent amount of time investigating my options to break down the CSV.  
+
+I initially got a bit tunnel-visioned into the idea of utilising google's app script, however, even though it would solve my problem quite easily, it's not a great use case if my data was particularly sensitive, so I wanted to try alternatives. Then I realised something:  
+Couldn't I manipulate my data utilising the panda dataframes, and converting it back to CSV? Turns out, I could! So I used that to filter only the columns I wanted and stored that to a new variable, and used the to_csv() function, which halved the size of the file.  
+I tested this reduced CSV file and, after a couple of minutes, successfully converted this to a google sheet (for personal visibility, and the ability to analyse what data would be useful for seeding into a database).  
+
+So this was progress, and I may want to use this to further cut/chunk down the CSV file (especially as the google sheet takes a considerable amount of time to load) next depending on whether I intended to only focus on recent/specific years of data.   
+
+------------ 
+
 <div align = "center"><i><a href="2025-03.md">March 2025</a></i></div>
