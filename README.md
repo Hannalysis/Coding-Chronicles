@@ -43,4 +43,17 @@ So this was progress, and I may want to use this to further cut/chunk down the C
 
 ------------ 
 
+--- April 6th ---  
+2025-04-06
+
+I had a bit of a false start yesterday - started to research into some ideas for my colab project, and then I managed to tweak my knee after a lovely morning walk.  
+
+So, with resting and a cold compresses inbetween, I've managed to get a fairly productive day at the design table today. Did plenty of game and anime UI inspiration, and tried to keep it simple, especially due to the limitations of mobile-first.  
+The biggest challenge I'm having so far, is being comfortable with using very bold primary colourings in my first draft - as I wanted the first iteration to remain on brand as much as possible.  Colours aside, I'm happy with the UI choices thus far, and managed to make a mock up for round 1  
+for both mobile and desktop versions. 
+
+The next challenge of this project, is to see if I can make a home page that suits this visual theme, and try my ideas on a different generation (which utilises different but equally striking colour variants).  
+
+------------ 
+
 <div align = "center"><i><a href="2025-03.md">March 2025</a></i></div>
