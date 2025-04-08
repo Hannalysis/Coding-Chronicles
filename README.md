@@ -59,9 +59,10 @@ The next challenge of this project, is to see if I can make a home page that sui
 2025-04-08
 
 Not feeling my best today, but after a doctors appointment this afternoon, I decided to have a bit of a researching & problem solving afternoon with my Winds of Change project.  
-
+  
 For starters, I wanted a separate google sheet with only the locations and no duplications. Simple enough to execute, was a little time consuming on execution no thanks to some forced revert on google cloud's end as it was struggling to save changes (likely due to the large file size).  
-Then I needed to find an autonomous way to grab the lat and long of each of these UK locations, without having to spent money on an API-based solution. 
+Then I needed to find an autonomous way to grab the lat and long of each of these UK locations, without having to utilise a payment method on an API-based solution.  There were numerous solutions, provided I had the postcodes at hand, and as I did not, I only had a couple of angles I could approach it from.  
+At least this way, I believe I have found a method to grab both the lat long & postcodes both, provided I can get the script to execute successfully. Unfortunately, it's only executing manually at the moment, so I will look into this more next time.  
 
 ------------ 
 <div align = "center"><i><a href="2025-03.md">March 2025</a></i></div>
