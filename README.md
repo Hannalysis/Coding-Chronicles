@@ -61,6 +61,7 @@ The next challenge of this project, is to see if I can make a home page that sui
 Not feeling my best today, but after a doctors appointment this afternoon, I decided to have a bit of a researching & problem solving afternoon with my Winds of Change project.  
 
 For starters, I wanted a separate google sheet with only the locations and no duplications. Simple enough to execute, was a little time consuming on execution no thanks to some forced revert on google cloud's end as it was struggling to save changes (likely due to the large file size).  
-TBC
+Then I needed to find an autonomous way to grab the lat and long of each of these UK locations, without having to spent money on an API-based solution. 
 
+------------ 
 <div align = "center"><i><a href="2025-03.md">March 2025</a></i></div>
