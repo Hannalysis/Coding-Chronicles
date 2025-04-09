@@ -64,6 +64,7 @@ For starters, I wanted a separate google sheet with only the locations and no du
 Then I needed to find an autonomous way to grab the lat and long of each of these UK locations, without having to utilise a payment method on an API-based solution.  There were numerous solutions, provided I had the postcodes at hand, and as I did not, I only had a couple of angles I could approach it from.  
 
 At least this way, I believe I have found a method to grab both the lat long & postcodes both, provided I can get the script to execute successfully. Unfortunately, it's only executing manually at the moment, so I will look into this more next time.  
+As a nice side note though, I was able to stringify and comma the entires within the google sheet using the formula ie ="'"&A2&"', ". This made it simple to copy and paste every town entry into a Python list inside the localised script file.  
 
 ------------ 
 <div align = "center"><i><a href="2025-03.md">March 2025</a></i></div>
