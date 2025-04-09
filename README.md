@@ -63,8 +63,18 @@ Not feeling my best today, but after a doctors appointment this afternoon, I dec
 For starters, I wanted a separate google sheet with only the locations and no duplications. Simple enough to execute, was a little time consuming on execution no thanks to some forced revert on google cloud's end as it was struggling to save changes (likely due to the large file size).  
 Then I needed to find an autonomous way to grab the lat and long of each of these UK locations, without having to utilise a payment method on an API-based solution.  There were numerous solutions, provided I had the postcodes at hand, and as I did not, I only had a couple of angles I could approach it from.  
 
-At least this way, I believe I have found a method to grab both the lat long & postcodes both, provided I can get the script to execute successfully. Unfortunately, it's only executing manually at the moment, so I will look into this more next time.  
+At least this way, I believe I have found a method to grab both the lat long & postcodes both, provided I can get the script to execute successfully. Unfortunately, it's only executing manually at the moment, so I will look into this more next time.   
 As a nice side note though, I was able to stringify and comma the entires within the google sheet using the formula ie ="'"&A2&"', ". This made it simple to copy and paste every town entry into a Python list inside the localised script file.  
 
 ------------ 
+
+--- April 9th ---  
+2025-04-09
+
+I started this morning by continuing the wireframing on my colab project.  
+
+I wanted to try out the same design idea with a different gen, which had more difficult colouring (Gen 6, A dirty blue w/ bold and swift gradient at the 50% mark to black (same with Red)).  Once settling with creating a slighly less aggressive fade, later (so it only takes just under 33%, and the first 25% is black - so UI is easier to distinguish), I decided that gradient effect needed to also be gently placed around the UI elements that touch the existing gradient and it makes it pop out better overall. 
+
+So now, I'm looking at it, prefering it over the original bold colourings from the gen 1 design - despite really only testing this gen as I thought it would be more tricky, and therefore not a doable design at all thematically speaking. The gradients really make this wireframe look a bit more alive, and give it more character.  Looking forward to experimenting more with this.  
+
 <div align = "center"><i><a href="2025-03.md">March 2025</a></i></div>
