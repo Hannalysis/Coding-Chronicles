@@ -77,4 +77,10 @@ I wanted to try out the same design idea with a different gen, which had more di
 
 So now, I'm looking at it, prefering it over the original bold colourings from the gen 1 design - despite really only testing this gen as I thought it would be more tricky, and therefore not a doable design at all thematically speaking. The gradients really make this wireframe look a bit more alive, and give it more character.  Looking forward to experimenting more with this.  
 
+I then spent this afternoon back with my data project, Winds of Change.  After a brief look into alternative solutions, I actually managed to get my API fetch script call working - I just needed to add a user-agent property inside the header parameters.  With a 2 second wait between calls, the script took a hefty 17 minutes to execute.  
+
+Once I looked at the saved csv file, there were 17 (out of ~500 locations) data unaccounted for, so I needed a method to quickly showcase the location names that did not successfully return any info.  So I utilised this google sheet formula (=FILTER(A2:A, ISERROR(MATCH(A2:A, B2:B, 0))) to quickly compare and showcase that location list, against the original list.  
+
+So, my last task for today was to investigate these locations via a google map search, edit the names that were mostly not correct, cross off a couple of locations that did not seem to populate on google maps, and manually grabbed the geo data for entires that seemed fine but the API call did not manage. 
+
 <div align = "center"><i><a href="2025-03.md">March 2025</a></i></div>
