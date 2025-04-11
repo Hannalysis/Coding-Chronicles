@@ -83,4 +83,17 @@ Once I looked at the saved csv file, there were 17 (out of ~500 locations) data 
 
 So, my last task for today was to investigate these locations via a google map search, edit the names that were mostly not correct, cross off a couple of locations that did not seem to populate on google maps, and manually grabbed the geo data for entires that seemed fine but the API call did not manage. 
 
+------------ 
+
+--- April 11th ---  
+2025-04-11
+
+Today I was feeling quite revitalised and ready to continue the colab project, especially after I finally got round to completing the story of pokemon violet (it was worth it!). 
+
+So I spent today creating the wireframe for the quiz homepage, for both mobile and desktop.  I decided to partially re-use the multiple choice UI selections I had made for the silhouette round to occupy the previous gen selection spaces. I then created bespoke areas for the current gen, an increased difficulty selection, and of course the start option.  I also decided to re-use the pokeball stencil as part of the start UI, which looks great in the wireframe - however I'm not sure how well that will translate to the actual build, once we get to it! 
+
+Still, very happy with the progress today, only really missing what the selected options would/could look like, but I will leave that for another day.  
+
+------------ 
+
 <div align = "center"><i><a href="2025-03.md">March 2025</a></i></div>
