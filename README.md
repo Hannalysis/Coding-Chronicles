@@ -101,7 +101,7 @@ Still, very happy with the progress today, only really missing what the selected
 
 Today I decided to shift to researching on tech stacks I've heard of for a particular role I'm interested in; but not really had an initial overiew or known a comparative tech stack I have experience with.    
   
-I started with learning about AWS Kinesis (A suite of services designed for real-time processing and analysis of streaming data at scale), Databricks DLT (a framework for building reliable, maintainable and testable data pipelines), and Microsoft Fabric (Data Management and analytics platform that simplies Data ingestion, transformation, storage and analytics). I also realised that SQL server is a variant os another RDBMS, which was much easier to grasp as I already have experience in postgreSQL.   
+I started with learning about AWS Kinesis (A suite of services designed for real-time processing and analysis of streaming data at scale), Databricks DLT (a framework for building reliable, maintainable and testable data pipelines), and Microsoft Fabric (Data Management and analytics platform that simplies Data ingestion, transformation, storage and analytics). I also realised that SQL server is a variant of another RDBMS, which was much easier to grasp as I already have experience in postgreSQL.   
   
 I then took a first look at PySpark, and revisted elements of data privacy and data security protocols.  
 
