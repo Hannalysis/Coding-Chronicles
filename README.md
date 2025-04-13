@@ -107,4 +107,40 @@ I then took a first look at PySpark, and revisted elements of data privacy and d
 
 ------------ 
 
+--- April 13th ---  
+2025-04-13
+
+Today I returned to my data project, winds-of-change, to see if I could get as far as seeding the csv files into a local instance of postgreSQL.  
+
+Firstly, I still had to grab those geo location data from a few that had been missed from the API fetch script. With those grabbed, and added to the appropriate csv location file, I needed to figure out the nuances between using python with pg vs node/javascript.  
+Once I realised I required the Psycopg module (version 3), I realised it was very similar to the pg module (thankfully!) I started with creating my database instance inside pgAdmin, and created my tables there: 
+
+    CREATE TABLE locations (
+        location_id SERIAL PRIMARY KEY,
+        location_name TEXT UNIQUE NOT NULL,
+        latitude FLOAT,
+        longitude FLOAT
+    );
+    
+    CREATE TABLE wind_data (
+        id SERIAL PRIMARY KEY,
+        location_id INT NOT NULL REFERENCES locations(location_id),
+        date DATE NOT NULL,
+        wind_speed FLOAT
+    );
+
+I'm placing this SQL query here for a couple of reasons; one to remind myself to place this within the readme installation instructions, until I preferably, add this as part of the seed script file (I'm not sure why I didn't!).  
+I started to run my seed script and quickly realised I still had inconsistencies with a few of my location names, so I addressed some of them with the following logic:
+
+    locations_df['location_name'] = locations_df['location_name'].astype(str).str.strip()
+    wind_df['location_name'] = wind_df['location_name'].astype(str).str.strip()  
+
+and made some bulk replacements with a couple of oddities outside of that.  
+Then I was ready to run the script! After a few minutes, the db had successfully populated both tables with the appropriate data! I ran a quick join query within pgAdmin to ensure the foreign key relationship was behaving as intended.  
+I will need to make some more thorough data checks and queries to ensure it's validity, but that can wait until next time.  
+
+I finished off the day by giving the readme a much needed update, and created a bespoke requirements.txt file (I did not realise that was the equivalent for nodes package json file).  Very pleased with my progress today!    
+
+------------ 
+
 <div align = "center"><i><a href="2025-03.md">March 2025</a></i></div>
