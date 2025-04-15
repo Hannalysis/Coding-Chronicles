@@ -144,4 +144,12 @@ I finished off the day by giving the readme a much needed update, and created a 
 
 ------------ 
 
+--- April 15th ---  
+2025-04-15  
+
+Today I decided to start learning and understanding the Databricks tech stack; which is a cloud-based data platform that unifies data engineering, analytics, and AI on a collaborative, scalable lakehouse architecture.  
+
+I began an introductory course in Datacamp, which allows the user to utilise a sandbox environment of Databricks. Its helping me learn my way around the initial navigation and useful elements of the Databricks platform.  
+I also learnt that a Control Plane is the 'brains' of the system, which is the user's Databricks account, and the Compute Plane, is the 'muscle' which is the user's AWS/Azure cloud services (aka the Databrick clusters). 40% complete.  
+
 <div align = "center"><i><a href="2025-03.md">March 2025</a></i></div>
