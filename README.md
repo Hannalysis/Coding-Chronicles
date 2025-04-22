@@ -161,7 +161,7 @@ It's weird seeing my contributions squares with a row of black instead of my usu
 
 Much needed though; we finally got our full fibre installed, and much needed time travelling to visit some family.  Recharged and ready to get back to it 🙏   
   
-I thought I'd start with a 'warm up' by adding media queries to the Owlify quiz project. Turns out, that was not as taxing as it first seemed. Firstly, it's not using modular CSS and secondly the separation of concerns even within the two CSS files were not consistent.   
+I thought I'd start with a 'warm up' by adding media queries to the Owlify quiz project. Turns out, that was not as straightforward as it first seemed. Firstly, it's not using modular CSS and secondly the separation of concerns even within the two CSS files were not consistent.   
 I've unified the selectors and placed them inisde the appropriate two different CSS files that project contains, and media queried at the bottom of each. Interestingly, despite managing to successfully make the web app compatible with mobile devices, the end result is not behaving the same on the deployed site as my local dev enviornment.   
 
 Not a big deal for now as it's very much playable (compared to before), however, there is some wobble and you're able to scroll after the background image which is unintended.   
