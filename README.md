@@ -152,4 +152,13 @@ Today I decided to start learning and understanding the Databricks tech stack; w
 I began an introductory course in Datacamp, which allows the me to utilise a sandbox environment of Databricks. Its helping me learn my way around the initial navigation and useful elements of the Databricks platform.  
 I also learnt that a Control Plane is the 'brains' of the system, which is the user's Databricks account, and the Compute Plane, is the 'muscle' which is the user's AWS/Azure cloud services (aka the Databrick clusters). 40% complete.  
 
+------------ 
+
+--- April 22nd ---  
+2025-04-22  
+
+It's weird seeing my contributions squares with a row of black instead of my usual green; my first proper break since coding on github (and coding overall, minus a couple of days for Xmas).  
+
+Much needed though; we finally got our full fibre installed, and much needed time travelling to visit some family.  Recharged and ready to get back to it 🙏 
+
 <div align = "center"><i><a href="2025-03.md">March 2025</a></i></div>
