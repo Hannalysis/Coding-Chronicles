@@ -178,8 +178,18 @@ I also created my first cluster utilising a local dataset on books, and created 
 I started today by finishing up the 'Introduction to Databricks' course - and realising I had not really left myself much to do on that outside of recapping the previous chapters!
 
 So I updated my 'Continued Learning' section on my portfolio site with the new certification. I am noticing that the timeline line is starting to misbehave the more I'm adding to it, so, I'm going to have to come up with a scalable solution in the future.  I also attempted to fix my og-image issue whilst I was at it, however this is going to take 
-real life time to see whether it was successful.  
+real life time to see whether it was successful.    
 
-Still plenty more of Databricks to explore, but I'm going to leave it there for today and give myself a chance to absorb the information. So I spent the rest of my allocated time today on...
+Still plenty more of Databricks to explore, but I'm going to leave it there for today and give myself a chance to absorb the information. So I spent the rest of my allocated time today on...  
+
+My site: I thought it's about time I started planning my solution to my carousel implementation.  I spent some time looking at my two major areas of functionality that require addressing on the Projects section: the stability of the chevrons, and the images loading as they transition in.  
+Once I looked into my options (and actively using figma to break it down into those two battle plans), I made a new branch and began working on the chevron issues.  Once I pulled the chevrons to a container I was able to fix them to, I was then able to freely fix the height of the carousel container itself.  
+This immediately brought stability to the chevrons when moving between different project card sizes. However, the chevron buttons themselves would overlap on various mobile sizes - as this is a mobile first app, I had to fix this before making any commits. So I spent a while making bespoke adjustements of the projact card sizes, and button spacing  
+on about 5 separate media queries, as I wanted them to look good and still be easily viewable regardless of what device the user has.  
+
+Then I commited and pushed my branch to my remote repo, and was pleasantly surprised that vercel offers a preview deployed link for branches (with no additional setup on my project), so I was able to test my changes in production with ease. I was not originally intending to merge my branch until I had both issues addressed,   
+but this fix had already improved the functionality of the carousel over what currently exists on main it gave me the confidence to merge it straight away! Next time I will be taking a look at more graceful image loading.  
+
+------------ 
 
 <div align = "center"><i><a href="2025-03.md">March 2025</a></i></div>
