@@ -172,4 +172,14 @@ I also created my first cluster utilising a local dataset on books, and created 
 
 ------------ 
 
+--- April 23rd ---  
+2025-04-23
+
+I started today by finishing up the 'Introduction to Databricks' course - and realising I had not really left myself much to do on that outside of recapping the previous chapters!
+
+So I updated my 'Continued Learning' section on my portfolio site with the new certification. I am noticing that the timeline line is starting to misbehave the more I'm adding to it, so, I'm going to have to come up with a scalable solution in the future.  I also attempted to fix my og-image issue whilst I was at it, however this is going to take 
+real life time to see whether it was successful.  
+
+Still plenty more of Databricks to explore, but I'm going to leave it there for today and give myself a chance to absorb the information. So I spent the rest of my allocated time today on...
+
 <div align = "center"><i><a href="2025-03.md">March 2025</a></i></div>
