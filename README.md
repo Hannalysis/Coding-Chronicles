@@ -192,4 +192,26 @@ but this fix had already improved the functionality of the carousel over what cu
 
 ------------ 
 
+--- April 24th ---  
+2025-04-24  
+
+Today I wanted to enjoy my progress with my site, without making any further adjustments so I'm returning to my data ventures.  
+
+I decided to start a course on AWS Kinesis and Lambda, which notably had a fair amount of prerequisite courses recommended before delving in. However, I had a basic understanding of AWS, so I wanted to see how much I could learn and understand before having to visit a potential area/concept I was unsure of.  
+
+Thankfully, the initial concepts did not feel as alien as I had expected; understanding use cases of batch vs streams is something I already had been introduced albeit at a higher level a while back, and the coding exercises and examples are all written in Python.  
+I spent today learning about Firehose, and sending data to an Amazon S3 bucket.  I started with understanding and navigating through the AWS permissions flow and creating a role via the IAM (Identity Access Management). This was then followed up by creating the Firehose Delivery System, by:
+- Locating the role ARN (Amazon's unique identifier)
+- Initiating the boto3 client
+- Creating the stream
+- Creating the stream response
+- Sending a record (and converting it to a string format)
+- Waiting for buffering to complete for the data to be ready to view inside the S3 bucket
+- Copy the key of the created file, and create an S3 client using boto3
+- Get the object from S3 -> read the object into a Pandas Dataframe
+
+It's alot to take in, so I did not quite finish the 1st of 4 chapters of this course today. However I will continue this tomorrow! 18% complete.
+
+------------ 
+
 <div align = "center"><i><a href="2025-03.md">March 2025</a></i></div>
