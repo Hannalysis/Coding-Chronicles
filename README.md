@@ -214,4 +214,17 @@ It's alot to take in, so I did not quite finish the 1st of 4 chapters of this co
 
 ------------ 
 
+--- April 25th ---  
+2025-04-25  
+
+Today I decided to spend my afternoon fully focused on continuing the datacamp course on 'Streaming Data with AWS Kinesis and Lambda'.  
+
+It was intense for the most part, but I managed to finish chapter 1 and 2 of 4. The remainder of chapter 1 was practicing and reviewing creating the Firehose stream, creating the S3 bucket, and successfully sending a record to said bucket.  
+Chapter 2 was all focused around Lambda; serverless code execution in the cloud, triggered by events.  I first covered the examples of when serverless is appropriate to utilise for certain data over manual servers, then moved onto creating lambda functions.  
+The first function I created would trigger every time a record entered the bucket. I was then introduced to adding layers so we could utilise Pandas (so we can read the S3 files) by utilising the aws-data-wrangler.  I followed this up by creating a timed lambda function trigger, by adding a scheduler expression (with cron).  
+
+This was thankfully followed up with an area I'm more familiar with, API creation.  Lambda makes this pretty straightforward using their functions - with the API Gateway trigger config. Course completion: 52%.    
+
+------------ 
+
 <div align = "center"><i><a href="2025-03.md">March 2025</a></i></div>
