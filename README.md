@@ -235,6 +235,10 @@ Today I wanted to continue working on the 'Streaming Data with AWS Kinesis and L
 It was focused on Lambda transformations and Kinesis Data Analytics. I learnt about the ability to utilise lambda functions to sanitise incoming Firehose stream data before it reaches the S3 bucket, and using Kinesis Data Analytics to join multiple streams, find anomalies along with discovery patterns (ie in a certain timeframe) with SQL.  
 
 I took a lot of notes, to ensure I could navigate around the AWS services appropriately and ensure the setup would be correct in the particular testing scenario that is provided in this course.  
-I also practiced writing Python scripts to encode incoming strings to bytes, then base64, and converting them back to bytes, and finally strings using the base64 module. Chapter 3 will be continued tomorrow - course progression 70% complete.
+I also practiced writing Python scripts to encode incoming strings to bytes, then base64, and converting them back to bytes, and finally strings using the base64 module. Chapter 3 will be continued tomorrow - course progression 70% complete.  
+
+I finished my allocated session today by deciding on a few Frontend Mentor challenges to commence. I've had quite a data focused month but I do not want to negate my front-end journey either.  I'm looking foward to interweaving them into my studying to keep things fresh.  
+  
+------------ 
 
 <div align = "center"><i><a href="2025-03.md">March 2025</a></i></div>
