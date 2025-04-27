@@ -241,4 +241,19 @@ I finished my allocated session today by deciding on a few Frontend Mentor chall
   
 ------------ 
 
+--- April 27th ---  
+2025-04-27
+
+Today I wanted to continue studying the AWS course, but I needed a bit of a mental warm-up first.  
+
+So I took a quick return to my TypeScript decorators tutorial page - the post I created on linkedin that links to the deployed site still has fragments of viewership and I find the website to be a little rough around the edges still.  
+I decided to make some quick wins - created sleek thin borders around the grid items (both video and step info), aligned this with the header and summary sections and unified them visually, and gave a little more room for the accordion instructions component.  
+
+Then I continued my learning journey with 'Streaming Data with AWS Kinesis and Lambda'. I managed to complete chapter 3, and started looking at alternatives to S3 for storing non-static data - so the focus was on setting up Elasticsearch as the destination of a newly created Firehose stream.  
+This followed nicely into CloudWatch, which allows the viewing of raw logs, metrics, visualisation dashboards and alarms. I was then guided through the process of setting up an alarm when incoming record data to trigger under certain conditional criteria.  
+
+Course completion - 89%. Let's see if we can finish it tomorrow!
+
+------------ 
+
 <div align = "center"><i><a href="2025-03.md">March 2025</a></i></div>
