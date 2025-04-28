@@ -256,4 +256,16 @@ Course completion - 89%. Let's see if we can finish it tomorrow!
 
 ------------ 
 
+--- April 28th ---  
+2025-04-28 
+
+Success! I managed to complete the 'Streaming Data with AWS Kinesis and Lamda' course this afternoon!  
+
+Overall I was really surprised by the power and versitility of the many different distinct services within AWS, and how they work together to provide effective real-data analytical information with great flexibility.  
+This course has given me many areas to explore further, thanks to it's exposure to Firehose, Kinesis Data Analytics, transformational Lambdas, Amazon S3, Elasticsearch, Kibana Dashboards, CloudWatch - and allowing appropriate access roles through the IAM.  
+The Python scripting exercises felt quite straightforward, however it also exposed me to boto3 for the first time, so it's definately a module I want to look into and get more familiar with.  
+
+With the course completed, I wanted to give my portfolio site a quick content update, before heading onto anything else today.  
+
+
 <div align = "center"><i><a href="2025-03.md">March 2025</a></i></div>
