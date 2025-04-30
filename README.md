@@ -267,5 +267,14 @@ This course has given me many areas to explore further, thanks to it's exposure 
 
 With the course completed, I wanted to give my portfolio site a quick content update, before heading onto anything else today.  
 
+------------ 
+
+--- April 30th ---  
+2025-04-30 
+
+Today I wanted to give myself a much needed break and time to absorb all the information I've learned from the last two Datacamp courses, so I thought I'd return to some front-end.  
+
+I've spent the majority of this afternoon, continuing the wireframe for round 1 on my colab project.  I ran into a couple of visual challenges when creating the results screen on mobile, as I wanted content to fit and also have the quiz navigation present without the need for scrolling down to get to it.  
+So I had to get a little creative, and change the simulated grid layout in order to fit the results text, and the main UI box in seemlessly.  I also had to consider the location of the next round, and home button - on mobile I did not want them sitting next to each other (for accidental taps), so I've placed the home and next round UI options at opposite ordinal points.  After adding the initial round intro flow and link connecting the frames together - I can safely say we have a full sequence mapped out for desktop and mobile! Looking forward to sharing this with my colab partner, to discuss our next steps; and start creating our MVP soon! 
 
 <div align = "center"><i><a href="2025-03.md">March 2025</a></i></div>
