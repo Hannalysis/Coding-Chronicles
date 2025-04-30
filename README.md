@@ -278,4 +278,8 @@ I've spent the majority of this afternoon, continuing the wireframe for round 1 
 
 So I had to get a little creative, and change the simulated grid layout in order to fit the results text, and the main UI box in seemlessly.  I also had to consider the location of the next round, and home button - on mobile I did not want them sitting next to each other (for accidental taps), so I've placed the home and next round UI options at opposite ordinal points.  After adding the initial round intro flow and link connecting the frames together - I can safely say we have a full sequence mapped out for desktop and mobile! Looking forward to sharing this with my colab partner, to discuss our next steps; and start creating our MVP soon! 
 
+I ended today's session by selecting a front-end-mentor project that may help me with some widget designs I'd like to commence in the near future. So I've initialised the results-summary-component challenge in a remote repo, and will look forward to tackling it next.
+
+------------ 
+
 <div align = "center"><i><a href="2025-03.md">March 2025</a></i></div>
