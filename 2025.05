@@ -1,0 +1,22 @@
+<h1 align = "center"> Coding Chronicles </h1>
+ <div align = "center"><i> May 2025 </i></div>
+
+ ------------
+
+--- May 1st ---  
+2025-05-01
+
+As mentioned yesterday, I wanted to commence the Front-End Mentor challenge, the results-summary-component.  
+
+I had no intentions to finish or rush to completion, but I am timing my progress for curiousity.  The reason I do not want to pressure myself for swiftness on this occasion, as I want to use this as an opportunity to really improve my code structure, and ensure it's clean and easy to read.  
+I can revert to utilising prettier, however I've not set it automatically in hopes that I can train good behaviours for myself without over-relying on that tool.  
+I also want to ensure I'm using appropriate element types inside the html (rather than just reverting to div at every opportunity).  
+
+With 25 minutes of time allocated to just the planning process, this really helped me confirm how I wanted to containerise the component, what elements are best to use, and how it would be responsive from mobile to desktop.  
+I decided to utilise the grid format; 1x2 for mobile, and 2x1 for desktop.  I also ensured the component was sitting in a main container, and the two containers within were using sections.  
+
+After a bit of intial formatting on the results-container and its text content, including adding a gradient background to match the example, I decided to leave it there for today.
+
+------------
+
+<div align = "center"><i><a href="2025-04.md">April 2025</a></i></div>
