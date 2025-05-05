@@ -32,6 +32,7 @@ I then added the circle gradient, the appropriate google fonts and formatting fo
 
 I decided to return to my Data journey, and started the 'Foundations of PySpark' course with Datacamp, and completed the first chapter.  
 I learnt the concept of how PySpark interacts by connecting to a cluster; creating an instance of the SparkContext class, and interacting with it by creating a SparkSession object.  From there, I learnt various commands to manipulate the SparkSession object to:  
+  
 Create an SQL query and show it, convert the query to a Pandas Dataframe, create a temporary instance of a conversion from a Pandas Dataframe to a SparkSession Dataframe - and then adding it back into the SparkSession's catalog properly, and storing a local csv to a SparkSession object.  
 
 Course completion - 22%
