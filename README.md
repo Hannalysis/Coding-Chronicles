@@ -39,4 +39,11 @@ Course completion - 22%
 
 ------------
 
+--- May 6th ---  
+2025-05-06
+
+Today I started by continuing studying the 'Foundations of PySpark'.  
+
+The focus was to utilise data analysis techniques; by creating and modifying columns, filtering aggregating and joining data - by utilising both core Sparks methods, and pyspark.sql.functions for specific manipulation through columns. Course completion 49%.
+
 <div align = "center"><i><a href="2025-04.md">April 2025</a></i></div>
