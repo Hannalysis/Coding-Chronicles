@@ -46,7 +46,7 @@ Today I started by continuing studying the 'Foundations of PySpark'.
 
 The focus was to utilise data analysis techniques; by creating and modifying columns, filtering aggregating and joining data - by utilising both core Sparks methods, and pyspark.sql.functions for specific manipulation through columns. Course completion 49%.  
 
-To allow time to digest my current learnings, I spent the remainder of time revising some FullStack fundamentals with codecademy exercises within that learning career path.  
+To allow time to digest my current learnings, I spent the remainder of time revising some FullStack fundamentals with codecademy exercises within that learning path.  
 
 ------------
 
