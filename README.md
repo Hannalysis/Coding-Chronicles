@@ -59,7 +59,7 @@ I got the results section into a place I was happy with - by finally finding the
 
     radial-gradient(circle at center top,  hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
 
-I didn't realise until today that you can name the shape or direction, and also where it stems from, so how the shading matches the design brief.  I then focused on making the section's padding rem instead of percentage based for more accurate sizing adaptations when resizing, and made the overall component render as a card when viewed in desktop mode.  
+I didn't realise until today that you can name the shape or direction, and also where it stems from as one argument; so now the shading matches the design brief.  I then focused on making the section's padding rem instead of percentage based for more accurate sizing adaptations when resizing, and made the overall component render as a card when viewed in desktop mode.  
 
 
 
