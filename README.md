@@ -61,6 +61,12 @@ I got the results section into a place I was happy with - by finally finding the
 
 I didn't realise until today that you can name the shape or direction, and also where it stems from as one argument; so now the shading matches the design brief.  I then focused on making the section's padding rem instead of percentage based for more accurate sizing adaptations when resizing, and made the overall component render as a card when viewed in desktop mode.  
 
+For the remainder of my session, I allocated some study time on 'Foundations of PySpark' and managed to complete chapter 3.  
+This chapter was focused on the pyspark.ml module; and utilising the Transformer and Estimator classes.  I went through the motions in a simulated environment where I joined the DataFrames (but first prepped by renaming the appropriate columns to avoid duplication) to create the initial model data, transformed data and adding appropriate columns for those, 
+made the appropriate StringIndexer calls and OneHotEncoder calls to hold our features; and finally adding everything into a VectorAssembler and making a Pipeline. I then finished up by transforming and splitting the data using randomSplit() to create a Test and Train set.  
 
+It was an intensive study session, especially as I'm still quite green when it comes to the machine learning models at this stage. 80% Complete. Looking forward to seeing how the final chapter wraps up this course.  
+
+------------
 
 <div align = "center"><i><a href="2025-04.md">April 2025</a></i></div>
