@@ -50,4 +50,17 @@ To allow time to digest my current learnings, I spent the remainder of time revi
 
 ------------
 
+--- May 7th ---  
+2025-05-07
+
+Today I returned to work a little bit on the results-summary-component.  
+
+I got the results section into a place I was happy with - by finally finding the appropriate gradient for the circular score container: 
+
+    radial-gradient(circle at center top,  hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
+
+I didn't realise until today that you can name the shape or direction, and also where it stems from, so how the shading matches the design brief.  I then focused on making the section's padding rem instead of percentage based for more accurate sizing adaptations when resizing, and made the overall component render as a card when viewed in desktop mode.  
+
+
+
 <div align = "center"><i><a href="2025-04.md">April 2025</a></i></div>
