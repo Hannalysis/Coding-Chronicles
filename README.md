@@ -76,6 +76,7 @@ It was an intensive study session, especially as I'm still quite green when it c
 Today I was eager to complete the 'Foundations of PySpark' course.  
 
 I managed to succeed in this, and completed the final chapter - which introduced me to logistic regression for predicting binary outcomes. I learnt that the closer the model's AUC (Area Under the Curve) is to 1, the better the model is.  
+
 So I went through the process of creating a modeler > evaluating it with a BinaryClassificationEvaluator with an ROC (Receiver Operating Curve) metric > making a grid & adding the hyperparameters > fitting the models with cross validation > and finally the evaluation by using the model to predict the test set.  
 
 There's alot here I would like to investigate further, but I'm very grateful for studying this course - even though my primary goal was to focus on manipulating data it's also given me a taste of the pyspark.ml module, which could prove useful for my WoC data project when I approach the (later) machine learning stages.  
