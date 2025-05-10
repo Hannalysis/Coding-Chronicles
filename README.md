@@ -83,4 +83,13 @@ There's alot here I would like to investigate further, but I'm very grateful for
 
 ------------
 
+--- May 10th ---  
+2025-05-10
+
+Just a short session today; I wanted to make most of the weekend and go for a long walk!  
+
+So I spent time revisiting Flask, and revising my previous knowledge on the fundamentals.  
+
+One thing I discovered today that was kind of irrelevant to the area itself, is that I only just found out that you can hold shift and click the refresh button on Chrome to perform a hard reload (so it re-fetches the previously cached web files).  I've not always encountered this issue when running in dev mode, but I have seen it occur enough to want to have known this little tidbit.
+
 <div align = "center"><i><a href="2025-04.md">April 2025</a></i></div>
