@@ -97,7 +97,7 @@ One thing I discovered today that was kind of irrelevant to the area itself, is 
 
 Another shorter session today - spent tinkering with Flask. 
 
-Created more routes, using Jinja to create dynamic updates by injecting logic into certain templates, and utilising API calls.
+In my playground project, I created more routes, used Jinja to create dynamic updates by injecting logic into certain templates, and utilised a couple of free external API calls.
 
 ------------
 
