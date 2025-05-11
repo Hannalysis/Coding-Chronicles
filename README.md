@@ -92,6 +92,8 @@ So I spent time revisiting Flask, and revising my previous knowledge on the fund
 
 One thing I discovered today that was kind of irrelevant to the area itself, is that I only just found out that you can hold shift and click the refresh button on Chrome to perform a hard reload (so it re-fetches the previously cached web files).  I've not always encountered this issue when running in dev mode, but I have seen it occur enough to want to have known this little tidbit.
 
+------------
+
 --- May 11th ---  
 2025-05-11
 
