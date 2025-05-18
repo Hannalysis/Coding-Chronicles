@@ -109,7 +109,10 @@ In my playground project, I created more routes, used Jinja to create dynamic up
 I'm now pretty busy with my current contract, so updates will be less frequent. Ideally, I'll try and log once a week - no matter how small :)  
 
 So today I started with something I really wanted to help speed me up in the long term - to create a template to showcase multiple groups of csv logs, to multiple dataframes in streamlit.  
-Utilising appropriate file structure (I realise, I can be a bit lazy in Python compared to working with JS or TS so I need to create better habits) I created a repo to do just that. It's still a little bit specific, but I'm hoping the repo may grow into multiple streamlit templates that will aid a quick visualisation of small sets of data when I need them.   
+Utilising appropriate file structure (I realise, I can be a bit lazy in Python compared to working with JS or TS so I need to create better habits) I created a repo to do just that. It's still a little bit specific, but I'm hoping the repo may grow into multiple streamlit templates that will aid a quick visualisation of small sets of data when I need them.  
+
+I then ended my session by continuing on with my results-summary-component FE Mentor challenge. I managed to implement the summary icons, format the summary container with a bit of flex grow, and enforcing flex shrink on the button to pull it to the bottom to match the desired design.  I also had to create more containers to pair up the icons and type name, and the scoring so I could utilise the space-between css property value to give the middle of the container rows appropriate spacing.  
+I also improved the mobile viewport by ensuring 100vh on the min-height property of the biggest container, meaning I could omit the footer on mobile but retain it on desktop to mimic the intended states set by the challenge.  
 
 ------------
 
