@@ -103,4 +103,14 @@ In my playground project, I created more routes, used Jinja to create dynamic up
 
 ------------
 
+--- May 18th ---  
+2025-05-18
+
+I'm now pretty busy with my current contract, so updates will be less frequent. Ideally, I'll try and log once a week - no matter how small :)  
+
+So today I started with something I really wanted to help speed me up in the long term - to create a template to showcase multiple groups of csv logs, to multiple dataframes in streamlit.  
+Utilising appropriate file structure (I realise, I can be a bit lazy in Python compared to working with JS or TS so I need to create better habits) I created a repo to do just that. It's still a little bit specific, but I'm hoping the repo may grow into multiple streamlit templates that will aid a quick visualisation of small sets of data when I need them.   
+
+------------
+
 <div align = "center"><i><a href="2025-04.md">April 2025</a></i></div>
