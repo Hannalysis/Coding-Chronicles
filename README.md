@@ -124,7 +124,7 @@ Today I wanted to return my attention to my focus on Data.
 Eager to re-solidify my foundations and revising some of the materials I had covered so far in recent courses I've completed in Datacamp, I wanted to start a Data Engineer career path - namely, the one focused in Python.  
 However, it recommended I complete the 'Associate Data Engineer in SQL' career path before starting that track, and considering I wanted to really check I am comfortable with the fundamentals, it would be amiss for me to skip this career track.  
 
-So I spent today completing the first section 'Understanding Data Engineering', which encompassed all 3 chapters.  The focus was on the Data workflow and the requirement of data pipelines, how engineers process data and the benefits & risks of parallel computing.  
+So I spent today completing the first section 'Understanding Data Engineering', which encompassed all 3 chapters.  This covered basic elements including the Data workflow and the requirement of data pipelines, how engineers process data and the benefits & risks of parallel computing.  
 Course completion: 11%.  
 
 ------------
