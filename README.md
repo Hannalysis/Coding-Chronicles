@@ -136,7 +136,7 @@ It's a bank holiday, but I wanted to make sure I'm still making tracks so I deci
 
 I completed the next section, the 'Introduction to SQL' fairly swiftly (thanks to previous knowledge; however I did pick up on a couple of points I'd forgotten or not realised: I'd forgotten that the DISTINCT keyword exists to pick up unique entries, and embarassingly did not realise that field naming conventions should always be singular.)  
   
-So I decided to carry on with the next section, the 'Intermediate SQL' course. From there, I managed to complete the first chapter, which encompassed best practices when writing selections, and exercises to practice writing selections a combination of COUNT, DISTINCT and aliases (AS).  
+So I decided to carry on with the next section, the 'Intermediate SQL' course. From there, I managed to complete the first chapter, which encompassed best practices when writing selections, and exercises to practice writing selections with a combination of COUNT, DISTINCT and aliases (AS).  
 Course completion: 24%.  
 
 ------------
