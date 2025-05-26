@@ -129,4 +129,12 @@ Course completion: 11%.
 
 ------------
 
+--- May 26th ---  
+2025-05-26
+
+It's a bank holiday, but I wanted to make sure I'm still making tracks so I decided to continue the 'Associate Data Engineer in SQL' career path.  
+
+I completed the next section, the 'Introduction to SQL' fairly swiftly (thanks to previous knowledge; however I did pick up on a couple of points I'd forgotten or not realised: I'd forgotten that the DISTINCT keyword exists to pick up unique entries, and embarassingly did not realise that field naming conventions should always be singular.)  
+So I decided to carry on with the next section, the 'Intermediate SQL' course.  
+
 <div align = "center"><i><a href="2025-04.md">April 2025</a></i></div>
