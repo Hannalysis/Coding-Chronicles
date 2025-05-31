@@ -141,4 +141,9 @@ Course completion: 24%.
 
 ------------
 
+--- May 31st ---  
+2025-05-31
+
+Today I realised it was a good time to update my CV project, and add new experience (and certs I had not listed).  I also realised the main branch within this project, was so redundant from my Data branch that I decided to merge it over today, and worry about re-inserting the appropriate content after - so I dealt with my first github file conflict.
+
 <div align = "center"><i><a href="2025-04.md">April 2025</a></i></div>
