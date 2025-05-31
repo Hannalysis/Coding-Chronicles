@@ -144,6 +144,11 @@ Course completion: 24%.
 --- May 31st ---  
 2025-05-31
 
-Today I realised it was a good time to update my CV project, and add new experience (and certs I had not listed).  I also realised the main branch within this project, was so redundant from my Data branch that I decided to merge it over today, and worry about re-inserting the appropriate content after - so I dealt with my first github file conflict.
+Today I realised it was a good time to update my CV project, and add new experience (and certs I had not listed).  I also realised the main branch within this project, was so redundant from my Data branch that I decided to merge it over today, and worry about re-inserting the appropriate content after - so I dealt with my first github file conflict.  
+
+I then finished my session by continuing my current career path in Datacamp, and therefore, continuing the 'Intermediate SQL' course.  I focused on a bunch of filtering queries, utilising a combination of operators, OR, AND, and BETWEEN | LIKE, NOT LIKE (% to match many characters, _ to match one in a specific part of the string) IN and NULL keywords.  
+I managed to complete that chapter. Overall course completion thus far: 28%.  
+
+------------
 
 <div align = "center"><i><a href="2025-04.md">April 2025</a></i></div>
