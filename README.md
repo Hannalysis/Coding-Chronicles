@@ -41,4 +41,16 @@ Fortunately that was the solution, so next time I'm focusing on this project, I 
 
 ------------
 
+--- July 13th ---  
+2025-07-13
+
+Today was a continuation on refactoring my CV.  To speed me up, I used v0 dev to generate a basic template with components. Utilising a tidier structure than provided, I plugged in each component and added modular CSS to each one.  
+What I found useful today was how easy it is to plug and switch my portfolio template file, and the CV file and then run the build.  This project may end up having an additional use case - once I'm ready to update my Github profile repo image and Linkedin background. 
+
+I then spend the remainder of my allocated time setting up my colour palette within the :root and applied it throughout the project. I also played around with some grid css to create a more fluent split column on the top container of sections. 
+
+Finally, I added my branding divider just under the Hero section, checked puppeteer could capture the image, before pushing up the local changes.
+
+------------
+
 <div align = "center"><i><a href="2025-05.md">May 2025</a></i></div>
