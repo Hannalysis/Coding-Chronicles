@@ -48,7 +48,7 @@ Today was a continuation on refactoring my CV.  To speed me up, I used v0 dev to
 
 What I found useful today was how easy it is to plug and switch my portfolio template file, to the CV file and then run the build.  This project may end up having an additional use case - once I'm ready to update my Github profile repo image and Linkedin background. 
 
-I then spend the remainder of my allocated time setting up my colour palette within the :root and applied it throughout the project. I also played around with some grid css to create a more fluent split column on the top container of sections. 
+I then spent the remainder of my allocated time setting up my colour palette within the :root and applied it throughout the project. I also played around with some grid css to create a more fluent split column on the top container of sections. 
 
 Finally, I added my branding divider just under the Hero section, checked puppeteer could capture the image, before pushing up the local changes.
 
@@ -57,7 +57,7 @@ Finally, I added my branding divider just under the Hero section, checked puppet
 --- July 14th ---  
 2025-07-14
 
-Today I thought to return to my Associate Data Engineer in SQL course in Datacamp, and continue the Intermediate SQL course.
+Today I thought to return to my Associate Data Engineer in SQL career track in Datacamp, and continue the Intermediate SQL course.
 
 I managed to complete the last two chapters, which focused on filtering and aggregating, sorting and grouping. This was also the first time I was introduced to the HAVING keyword, which is utilised for filtering grouped records. It was also interesting as I realised you cannot utilise aliases on this query type, and are only effective on ORDER BY
 filters.  I also learnt the differences of written code of SQL and the order of execution for these additional keywords that were covered in this course. 
