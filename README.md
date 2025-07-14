@@ -62,7 +62,9 @@ Today I thought to return to my Associate Data Engineer in SQL career track in D
 I managed to complete the last two chapters, which focused on filtering and aggregating, sorting and grouping. This was also the first time I was introduced to the HAVING keyword, which is utilised for filtering grouped records. It was also interesting as I realised you cannot utilise aliases on this query type, and are only effective on ORDER BY
 filters.  I also learnt the differences of written code of SQL and the order of execution for these additional keywords that were covered in this course. 
 
-Overall career track completion - 33%.
+Overall career track completion - 33%.  
+
+I finished up by doing a few additions and fixes to my CV refactor project - added global styling for list items, fixed the custom divider so it displays the correct length of patterned squares on the pdf, and started testing out some card styling changes.  
 
 ------------
 
