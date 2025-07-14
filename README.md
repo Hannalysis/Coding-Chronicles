@@ -54,4 +54,17 @@ Finally, I added my branding divider just under the Hero section, checked puppet
 
 ------------
 
+--- July 14th ---  
+2025-07-14
+
+Today I thought to return to my Associate Data Engineer in SQL course in Datacamp, and continue the Intermediate SQL course.
+
+I managed to complete the last two chapters, which focused on filtering and aggregating, sorting and grouping. This was also the first time I was introduced to the HAVING keyword, which is utilised for filtering grouped records. It was also interesting as I realised you cannot utilise aliases on this query type, and are only effective on ORDER BY
+filters.  I also learnt the differences of written code of SQL and the order of execution for these additional keywords that were covered in this course. 
+
+Overall career track completion - 33%.
+
+------------
+
+
 <div align = "center"><i><a href="2025-05.md">May 2025</a></i></div>
