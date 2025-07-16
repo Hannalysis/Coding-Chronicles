@@ -74,7 +74,7 @@ I finished up by doing a few additions and fixes to my CV refactor project - add
 Due to adulting admin and appointments to make, today wasn't a great day for in-depth taskwork.  So I continued with my CV refactor, but focused on the smaller changes; the visual colouring and sizing tweaks, and the dynamic container logic.  
 
 I added dynamic containers appropriate to the amount of certifications and adjusted so only two would align in a column, and 3 columns would fit into a single container. If there was an odd amount, one would appropriately fit into it's own container.  
-I had a similar setup with less columnns for Education & Journals.  
+I had a similar setup with less columns for Education & Journals.  
 
 After re-shuffling the components inside the template tsx (aka the App tsx) to move what I believe is more relevant to be more front-facing on the pdf output - I focused on giving all card-based components the same styling that overall fits with my theme, without removing the readability of the content.  
 I also re-sized and justified the link icons for both the Journals and Projects section. After fending off a pesky html element that happened to be classless inside a modular CSS file, I left it there for today.  
