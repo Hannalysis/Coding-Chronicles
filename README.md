@@ -91,7 +91,7 @@ I completed the first chapter of the Joining Data in SQL course; which was almos
 
 I found the idea to work on creating the INNER JOIN and FROM part of the queries first (as we needed to alias them) then moving onto the SELECT was not as fluid as I was hoping for, but I will get used to it (and ultimately, makes sense as you need to know what the aliases are before SELECTing them.)   
 
-I finished up with some experimentation with my smaller square diamond divider component for my CV refactor. Ultimately, it looked a little busy and I settled with the addition inside the Footer, and styled the line Dividers to have less opacity and better spacing.  
+I finished up with some experimentation with my smaller square diamond divider component for my CV refactor. Ultimately, it looked a little busy and I settled with the addition inside the Footer only, and instead styled the line Dividers to have less opacity and better spacing.  
 
 ------------
 
