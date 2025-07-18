@@ -95,4 +95,20 @@ I finished up with some experimentation with my smaller square diamond divider c
 
 ------------
 
+--- July 18th ---  
+2025-07-18
+
+Today I continued working on my CV refactor project.  
+
+I started with refactor a little more of the styling; I realised I had a couple of additional colourings that I was utilising on many components, so I added them to the :root and then distributed the variable on the appropriate module css files for more clarity, and also futureproofing any potential theme changes with ease.  
+
+I then encountered an interesting bug with my small line SectionDivider components.  One of my section dividers was not displaying when capturing it through puppeteer, but was fine when viewing it through React.   It was not the last component and would not be the last item to load, so I did not believe it was a premature capture before fully rendering, but I checked to be sure.  No matter what delay I set, the capture was the same. I decided to start placing additional dividers, and some would display, others wouldn't. I tried copying more of my other graphically intensive dividers but they all captured with no issue.  I also created a separate component, but with the same code and styling as the section divider to no avail.
+
+Luckily, I was able to chat to a fellow developer about my issue, and we debugged it together.  They noticed that it was mathematically every 3 of the culprit section dividers were not capturing.  Once I had also informed them about my separate component attempt that also did not render on capture, we starting looking at the styling of the section divider itself.  
+They noticed I was utilising sub pixel sizes (0.75px) for those particular borders, so we changed them to a whole integer, then started the capture. That was the fix! I did not realise that puppeteer utilises headless Chromium, which does not behave as a fully rendered browser would. It's possible it can get rounded, and therefore not render/renders invisible. 
+
+With that sorted I commited and pushed my changes, and then stepped away from another heat-intensive day.  
+
+------------
+
 <div align = "center"><i><a href="2025-05.md">May 2025</a></i></div>
