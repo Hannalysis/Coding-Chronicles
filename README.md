@@ -111,4 +111,12 @@ With that sorted I commited and pushed my changes, and then stepped away from an
 
 ------------
 
+--- July 19th ---  
+2025-07-19
+
+Today I was determined to get my CV refactor project in a state where I could input content from a json file, and pass it through as props to the necessary components of the React App.  
+Refactoring the component functions; making it prop ready good me a good while, but it has given me much needed confidence on handling props in React now.  I'm also glad I took the time to do this, as placing multiple json files, and having alternative App.tsxs to switch to accommodate though different data files is going to make this process so much smoother for tailoring or making content updates without altering the main codebase.   
+
+------------
+
 <div align = "center"><i><a href="2025-05.md">May 2025</a></i></div>
