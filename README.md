@@ -120,4 +120,13 @@ Refactoring the component functions; making it prop ready took me a good while, 
 
 ------------
 
+--- July 21st ---  
+2025-07-21
+
+This morning was mainly admin focused, so I used this afternoon to polish off my CV refactor project.  
+
+Mostly content updates, but I also added an additional item in the content information section to include an additional link, and adjust the projects section styling; so the first bullet point from the list is removed and the styling is differentiated to slightly lift the project description outside of the responsibilities list.  
+
+------------
+
 <div align = "center"><i><a href="2025-05.md">May 2025</a></i></div>
