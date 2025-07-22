@@ -134,7 +134,7 @@ Mostly content updates, but I also added an additional item in the content infor
 
 Today I wanted to go back and look at where I left one of my personal projects at.  
   
-It had been 3 months and honestly it took a while to re-familiarise myself with my milestones; what I wanted to achieve, and what my next steps are etc.  
+It had been 3 months since my last content commit in WoC and honestly it took a while to re-familiarise myself with my milestones; what I wanted to achieve, and what my next steps are etc.  
 It also made me realise that the repo was not easy to look at, not enough clarity was placed in some of my script naming conventions and the hierarchy just did not make enough sense.  The readme did not accurately reflect the pipelines either.  
   
 So I spent this afternoon re-structuring the project, updating the pipelines so script outputs aligned with this new structure, and heavily updated the readme for more milestone clarity and emphasis on the ETL process.  
