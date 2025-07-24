@@ -141,4 +141,16 @@ So I spent this afternoon re-structuring the project, updating the pipelines so 
 
 ------------
 
+--- July 24th ---  
+2025-07-24
+
+Yesterday I focused on small updates on multiple repos; mini content updates for my site, data additions for another, and adjusting readme files.  
+
+Today I wanted to dive back into some studying, so completed the 2nd chapter of the SQL Joins course in Datacamp.  
+This focused on outer joins (LEFT JOIN, RIGHT JOIN, and CROSS JOIN) and self join (which does not have it's own specific query name, but queries that allow joins to the same table using aliasing).  
+
+Associate Data Engineer in SQL path - 38% complete.  
+
+------------
+
 <div align = "center"><i><a href="2025-05.md">May 2025</a></i></div>
