@@ -153,4 +153,18 @@ Associate Data Engineer in SQL path - 38% complete.
 
 ------------
 
+--- July 28th ---  
+2025-07-28
+
+Today I wanted to focus and finish the 'Joining Data in SQL' course in Datacamp.  
+
+So I paced myself, and managed to work through the final 2 chapters; this covered set types (UNION, INTERSECT and EXCEPT), anti-joins, and subqueries (from SELECT and WHERE).  
+There was a lot to take on board and I'm thankful there were a lot of exercises to practice these new SQL keywords and queries.  
+
+Associate Data Engineer in SQL path - 44% complete.  
+
+I finished up the day with a little planning; finally creating a Github project for my portfolio site to track current issues & future improvements.  
+
+------------
+
 <div align = "center"><i><a href="2025-05.md">May 2025</a></i></div>
