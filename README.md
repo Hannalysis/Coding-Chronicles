@@ -175,7 +175,7 @@ After a full-on learning session yesterday, rather than continue the course, I w
 So today I looked into completing the optional content; a project utilising a dataset to analyse international students' mental health.  
 This was my first time utilising datacamp's datalab notebook environment, so I completed it's tutorial project to familiarise myself first.
 
-I then moved onto the optional project: I enjoyed the exercise, practicing aggregation and aliasing, filtering, grouping and sorting the data. The only part I struggled with was successfully submitting the project itself - it was not obvious that I had to click on the table interface itself within the notebook to rename the Dataframe (I attempted with SQL keywords and a separate python logic before realising!). 
+I then moved onto the optional project: I enjoyed the exercise, practicing aggregation and aliasing, filtering, grouping and sorting the data. The only part I struggled with was successfully submitting the project itself - it was not obvious that I had to click on the table interface itself within the notebook to rename the Dataframe (I attempted with SQL keywords and a separate notebook for python logic before realising!). 
 
 ------------
 
