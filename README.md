@@ -167,4 +167,16 @@ I finished up the day with a little planning; finally creating a Github project 
 
 ------------
 
+--- July 29th ---  
+2025-07-29
+
+After a full-on learning session today, rather than continue the course, I wanted to practice and apply my current knowledge.  
+
+So today I looked into completing the optional content; a project utilising a dataset to analyse international students' mental health.  
+This was my first time utilising datacamp's datalab notebook environment, so I completed it's tutorial project to familiarise myself before heading to the optional project content.  
+
+I enjoyed the exercise, practicing aggregation and aliasing, filtering, grouping and sorting the data. The only part I struggled with was successfully submitting the project itself - it was not obvious that I had to click on the table interface itself within the notebook to rename the Dataframe (I attempted with SQL keywords and a separate python logic before realising!). 
+
+------------
+
 <div align = "center"><i><a href="2025-05.md">May 2025</a></i></div>
