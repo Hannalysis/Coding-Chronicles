@@ -202,7 +202,7 @@ So I pushed the branch and viewed it in preview mode in vercel, however I will r
 
 Today I was keen to check these changes regarding my site with fresh eyes. I was happy with what I've pushed to the preview branch so far, however I realised there was another detail I could add that would smoothen my carousel images on transition.   
 
-By using the setter function to reset the imageLoaded state to false unpon either projact card chevron or the projact indicators, I could utilise my blur state on each card as they load in.  This makes the lazy loading more fluid visually, and I'm happy with the results of this additional change - so I'm glad I held fire on merging last night (taking a break really helps!).  
+By using the setter function to reset the imageLoaded state to false unpon either project card chevron or the project indicators, I could utilise my blur state on each card as they load in.  This makes the lazy loading more fluid visually, and I'm happy with the results of this additional change - so I'm glad I held fire on merging last night (taking a break really helps!).  
 
 So I've merged the PR and tested on multiple devices, then confidently closed the issues (I wanted to avoid the PR automatically closing the issues as I wanted to test performance on mobile devices in a real-life setting without forced throttling).  
 
