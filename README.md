@@ -205,5 +205,11 @@ Today I was keen to check these changes regarding my site with fresh eyes. I was
 By using the setter function to reset the imageLoaded state to false upon either project card chevron or the project indicators, I could utilise my blur state on each card as they load in.  This makes the lazy loading more fluid visually, and I'm happy with the results of this additional change - so I'm glad I held fire on merging last night (taking a break really helps!).  
 
 So I've merged the PR and tested on multiple devices, then confidently closed the issues (I wanted to avoid the PR automatically closing the issues as I wanted to test performance on mobile devices in a real-life setting without forced throttling).  
+  
+I then rounded the remainder of the day by completing the last two chapters of the 'Introduction to Relational Databases in SQL' course.  That focused on relational integrity, by the means of utilising primary keys and foreign keys - so this was more of a revision topic but it was also appreciated.   
+  
+Associate Data Engineer in SQL path - 55% complete. 
+
+------------
 
 <div align = "center"><i><a href="2025-05.md">May 2025</a></i></div>
