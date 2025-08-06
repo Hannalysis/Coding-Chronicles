@@ -26,5 +26,17 @@ That left me a little bit of time to start my Datacamp course on 'Database Desig
 
  ------------
 
+  --- August 6th ---  
+2025-08-06
+
+I started this morning actioning out some of my front-end admin tasks. This included creating a separate repo to host my completed FE Mentor challenges.  
+Currently, it's basically held in a readme file, but I do intend to extend that to a live page (stack and deployment tbc).  
+   
+I then moved onto continuing the 'Database Design' course.  I managed to complete chapter 2, which involved snowflake schemas; how to query for multi-dimensional tables, and when they're better suited for use. This also introduced normalisation, and the multiple layers of that (from 1NF - 6NF). I practiced converting a table that did not qualify for 1NF, and gradually shaped it to 3NF.   
+  
+Associate Data Engineer in SQL course completion - 60%.  
+
+------------
+
 
 <div align = "center"><i><a href="2025-07.md">July 2025</a></i></div>
