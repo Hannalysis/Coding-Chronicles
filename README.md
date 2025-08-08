@@ -13,7 +13,7 @@ The button implementation was not too bad apart from getting the size to align w
 
  ------------
 
- --- August 4th ---  
+--- August 4th ---  
 2025-08-04
 
 I spent yesterday telling myself I was only doing admin; so I created my readme for my results-summary-component challenge.  Then I looked at my initial FE Mentor challenge I'd attempted in January, and decided it was a good time to implement the mobile-design element of the challenge.  
@@ -26,7 +26,7 @@ That left me a little bit of time to start my Datacamp course on 'Database Desig
 
  ------------
 
-  --- August 6th ---  
+--- August 6th ---  
 2025-08-06
 
 I started this morning actioning out some of my front-end admin tasks. This included creating a separate repo to host my completed FE Mentor challenges.  
@@ -38,5 +38,13 @@ Associate Data Engineer in SQL course completion - 60%.
 
 ------------
 
+--- August 8th ---  
+2025-08-08
+
+Yesterday I practiced utilising simple motion animations in React. Outside of that it was a pretty heavy admin day, so I wanted to take today a little easier.  
+
+So, with no expectations, I continued my Datacamp course in 'Database Design'.  I managed to complete chapter 3, which focused on views; creating, updating (inc permissions) and also the differences between materialised views and normal views, and under what situations each are typically used for.  
+
+------------
 
 <div align = "center"><i><a href="2025-07.md">July 2025</a></i></div>
