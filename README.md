@@ -47,4 +47,13 @@ So, with no expectations, I continued my Datacamp course in 'Database Design'.  
 
 ------------
 
+--- August 9th ---  
+2025-08-09
+
+Today I was determined to finish the 'Database Design' course in Datacamp; so I completed the final chapter.  
+  
+This split the focus between creating and editing access role and groups, and creating partitions. It was rounded off with an overview of different DBMS, examples and the best scenarios for each use case.   
+  
+Associate Data Engineer in SQL course completion - 66%. 
+
 <div align = "center"><i><a href="2025-07.md">July 2025</a></i></div>
