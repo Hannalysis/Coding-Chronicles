@@ -56,4 +56,16 @@ This split the focus between creating and editing access role and groups, and cr
   
 Associate Data Engineer in SQL course completion - 66%. 
 
+------------
+
+--- August 10th ---  
+2025-08-10
+
+Today I wanted to start thinking about my next plan of action for my WoC data project, before heading back into studying.  
+
+I looked into my next milestone, to re-evaluate.  Even though I had it in mind that I do not intend to use the entire dataset to display in Folium, I did not really give myself ample time to consider how I would aggregate and show the data.  I am thinking about potentially enriching the data further, and adding region/county to each record - however this will be too slow to fill via an API call at this point with 5 mil entries, so downloading a local dataset to enrich with may be the optimal path.   
+I also wanted to explore utilising data validation tooling and adding it as part of the CLI process I intend to implement.  
+
+------------
+
 <div align = "center"><i><a href="2025-07.md">July 2025</a></i></div>
