@@ -66,6 +66,10 @@ Today I wanted to start thinking about my next plan of action for my WoC data pr
 I looked into my next milestone, to re-evaluate.  Even though I had it in mind that I do not intend to use the entire dataset to display in Folium, I did not really give myself ample time to consider how I would aggregate and show the data.  I am thinking about potentially enriching the data further, and adding region/county to each record - however this will be too slow to fill via an API call at this point with 5 mil entries, so downloading a local dataset to enrich with may be the optimal path.   
 I also wanted to explore utilising data validation tooling and adding it as part of the CLI process I intend to implement.  
 
+Then, I spent the afternoon working through the entirety of the 'Data Warehouse Concepts' in Datacamp.  As it's an introductory course, it was a great refresher and revision exercise. I did appreciate the high level overview of data validation (considering my previous paragraph mentioning this!) and data governance programs.   
+  
+Associate Data Engineer in SQL course completion - 77%.  
+
 ------------
 
 <div align = "center"><i><a href="2025-07.md">July 2025</a></i></div>
