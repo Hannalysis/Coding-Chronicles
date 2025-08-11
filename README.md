@@ -72,4 +72,17 @@ Associate Data Engineer in SQL course completion - 77%.
 
 ------------
 
+--- August 11th ---  
+2025-08-11
+
+Today I wanted to see how far I could get in the next course on my career track on Datacamp.  
+
+So I ended up completing the 'Introduction to Snowflake' course.  Outside of a couple of keyword deviations from postgreSQL, the majority of new clauses or functions I encountered are bespoke to Snowflake; including CAST, EXTRACT, GROUP BY ALL, CURRENT_DATE, and INITCAP().  I also got to practice utilising their additional join keywords, NATURAL and LATERAL.  I enjoyed using CTE to give a nickname or alias to a subquery for readability.  I was also introduced to Snowflake's QUERY HISTORY view, which displays useful metrics as such execution time; which gives insight to optimise slower running queries.  
+
+All in all, very excited to learn more about Snowflake, and to study further in data engineering; especially as today is the day I have completed the 'Associate Data Engineer in SQL' career track course! A couple of optional projects to still complete, and I aim to do those soon to help solidify or revise my recent learnings.  
+
+Associate Data Engineer in SQL course completion - 100%.  
+
+------------
+
 <div align = "center"><i><a href="2025-07.md">July 2025</a></i></div>
