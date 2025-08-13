@@ -85,4 +85,15 @@ Associate Data Engineer in SQL course completion - 100%.
 
 ------------
 
+--- August 13th ---  
+2025-08-13
+
+Had to take yesterday off due to how toasty it was!  
+
+I started today with a small content update to my site, then did some SQL practice with Datacamp.  I aim to start my next career track course next week, so I'm keeping my studying light in the meantime.  
+
+I followed up with adding the dynamic data implementation for the results-summary-component FE Mentor challenge.  It was good javascript DOM practice and I also got to utilise github pages for the first time on a non-main branch due to mandatory testing to ensure the update was utilising the json file before merging it back to main.
+
+...
+
 <div align = "center"><i><a href="2025-07.md">July 2025</a></i></div>
