@@ -94,7 +94,7 @@ I started today with a small content update to my site, then did some SQL practi
 
 I followed up with adding the dynamic data implementation for the results-summary-component FE Mentor challenge.  It was good javascript DOM practice and I also got to utilise github pages for the first time on a non-main branch due to mandatory testing to ensure the update was utilising the json file before merging it back to main.  
 
-I ended the day by working on the initial API call and data storing for the colab project.  I ended up running into some issues as I had a node update since I last worked on this, causing numerous running issues until I had addressed through the config.  I also had to create a bespoke config so I could run the fetch in TypeScript.  However, I managed to get the data I needed, pushed my changes to my new branch; will tidy up and utilise properly next.  
+I ended the day by working on the initial API fetch and data storing for the colab project.  I ended up running into some issues as I had a node update since I last worked on this, causing numerous running issues until I had addressed through the config.  I also had to create a bespoke config so I could run the fetch in TypeScript.  However, I managed to get the data required for the quiz, so I pushed my changes to my new branch; will tidy up and utilise properly next.  
 
 ------------
 
