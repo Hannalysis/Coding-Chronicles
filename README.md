@@ -111,7 +111,7 @@ I looked into anything I could use to diagnose this, and discovered that there i
     
     EXPLAIN(ANALYZE, VERBOSE) 
    
-When my WHERE clause for the wind speed was outside of the subquery I was only filtering ~400 records before the remainder of the query was executed, and when it was inside the subquery. we managed to filter out over 900k records first.  I would go into it further, however I have the full query process located in my branch [here](https://github.com/Hannalysis/winds-of-change/blob/initial-explore-and-vis/explorations/highest-wind-speed/hws-query-process.md).  Next step is to visualise this before heading into the next exploration.  
+When my WHERE clause for the wind speed was outside of the subquery I was only filtering ~400 records before the remainder of the query was executed, and when it was inside the subquery we managed to filter out over 900k records first.  I would go into it further, however I have the full query process located in my branch [here](https://github.com/Hannalysis/winds-of-change/blob/initial-explore-and-vis/explorations/highest-wind-speed/hws-query-process.md).  Next step is to visualise this before heading into the next exploration.  
 
 ------------
 
