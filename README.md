@@ -98,6 +98,17 @@ I ended the day by working on the initial API fetch and data storing for the col
 
 ------------
 
-...
+--- August 14th ---  
+2025-08-14
 
-<div align = "center"><i><a href="2025-07.md">July 2025</a></i></div>
+After a quick warm up with some review and practice with sub queries in SQL with Datacamp exercises, I decided it was time to create a new branch in my data WoC project and start investigating.  
+
+So I focused on querying to answer a fairly straightforward question to start with, and make that the focus for the first exploration point: "What are the highest wind speeds available from this dataset?"  
+I documented each query, from simply selecting everything from the wind_data table, joining it to the location table when I wanted more readability over ids, and realising I needed to add a subquery once I utilised the DISTINCT keyword on location names.  
+
+Once my query had started to evolve, I noticed my execution times went from 0.5 to 7.5 seconds, then I moved a query around and it down to 0.1 sec!  At first I thought it was my window function, but then I saw I had also moved the wind speed filter.  
+I looked into anything I could use to diagnose this, and discovered that there is a performance query in SQL to help: EXPLAIN(ANALYZE, VERBOSE). When my WHERE clause for the wind speed was outside of the subquery I was only filtering ~400 records before the remainder of the query was executed, and when it was inside the subquery. we managed to filter out over 900k records first.  I would go into it further, however I have the full query process located in my branch [here](https://github.com/Hannalysis/winds-of-change/blob/initial-explore-and-vis/explorations/highest-wind-speed/hws-query-process.md).  Next step is to visualise this before heading into the next exploration.  
+
+------------
+
+<div align = "center"><a href="2025-07.md">July 2025</a></div>
