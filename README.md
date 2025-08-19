@@ -115,4 +115,16 @@ When my WHERE clause for the wind speed was outside of the subquery I was only f
 
 ------------
 
+--- August 19th ---  
+2025-08-19
+
+After a lovely break seeing family I'm gearing myself to get back into the swings of things.   
+  
+I managed to complete the optional Data Analysis project on Exploring London's Travel Network, and thoroughly enjoyed creating the appropriate queries.  I followed this up with the optional skill test; thus completing every element of the career path in Datacamp.  
+  
+Before heading into the new career track today, I wanted to research and create a very rough game plan to consider an approach to learn another language, utilise my audio middleware knowledge and creating something to implement audio systems against, and of course, work out what areas of mathematics I'd need to learn to understand and implement some of those concepts.  
+It's alot; and considering I already have a lot of goals regarding my software development it's going to have to be very focused sessions despite being very much on the back burner. Happy to have taken the very initial small step towards that today though! 
+  
+Finally, I started the Data Engineer in Python career path in Datacamp, and due to it's fairly straightforward introductory courses I'm already 11% complete.     
+
 <div align = "center"><a href="2025-07.md">July 2025</a></div>
