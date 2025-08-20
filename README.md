@@ -141,6 +141,8 @@ This is useful when creating custom functions in Python, and can be accessed wit
 
 Data Engineer in Python - 21% complete.  
 
+I finished off my session by returning to the colab project.  I started with refactoring the api fetch, and then did an initial commit displaying the imported pokemon images from the data file (post api call), which randomly generate from a button press (for now).  
+
 ------------
 
 <div align = "center"><a href="2025-07.md">July 2025</a></div>
