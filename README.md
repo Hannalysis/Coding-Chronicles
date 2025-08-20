@@ -129,4 +129,18 @@ Finally, I started the Data Engineer in Python career path in Datacamp, and due 
 
  ------------
 
+ --- August 20th ---  
+2025-08-20
+
+Today I continued plowing through the content within the Data Engineer in Python career track in Datacamp, and managed to complete two courses.  
+
+This is due to the fact it was mostly covering introductory Python topics such as functions, modules, error handling etc. However, I was pleased to be introduced to Docstrings (perhaps slightly embarassing that I had not come across this before!).   
+This is useful when creating custom functions in Python, and can be accessed with the help() function, or more specifically, using dunders: 
+
+    print( function_name.__doc__)
+
+Data Engineer in Python - 21% complete.  
+
+------------
+
 <div align = "center"><a href="2025-07.md">July 2025</a></div>
