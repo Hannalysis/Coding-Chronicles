@@ -145,4 +145,13 @@ I finished off my session by returning to the colab project.  I started with ref
 
 ------------
 
+ --- August 23rd ---  
+2025-08-23
+
+Much like the last entry, today I continued my studying with Datacamp on the Data Engineer in Python career track.  
+
+I managed to get through 2/3 's of the next course, which focused on importing numerous different file types.  It was my first time loading and extracting data with matlab files, pickled files, hdf5 files & sas and stata files.  Similar process, but slightly different syntax and execution, along with requiring certain libraries to assist (ie numpy, pandas and scipy).  Outside of file importing, I was also introduced to PEPs (aka Python Enhancement Proposals).  I am enjoying picking up these tidbits of information I just happened to miss out on when I initially started learning to code in Python.   
+
+------------
+
 <div align = "center"><a href="2025-07.md">July 2025</a></div>
