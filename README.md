@@ -154,4 +154,16 @@ I managed to get through 2/3 's of the next course, which focused on importing n
 
 ------------
 
+ --- August 24th ---  
+2025-08-24
+
+I managed to finish the Introduction to Data Importing in Python, and the follow-up Intermediate course today! 
+
+The intermediate course focused on packages I have experince in, including urllib, BeautifulSoup and of course requests - so I utilised the course as a revision and refresher excerise.    
+What was interesting to me was the final chapter of the former course, where the focus was creating & connecting to the database engine, querying and then saving the results to a DataFrame. This was my first time utilising sqlite and sqlalchemy, however I did some additional research and found that I can utilise postgres modules in a similar way as long as I'm using the psycopg driver.  So it's directly useful for my data project, WoC.   
+
+Data Engineer in Python - 35% complete.  
+
+------------
+
 <div align = "center"><a href="2025-07.md">July 2025</a></div>
