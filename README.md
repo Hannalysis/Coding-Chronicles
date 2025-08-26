@@ -166,4 +166,14 @@ Data Engineer in Python - 35% complete.
 
 ------------
 
+ --- August 26th ---  
+2025-08-26
+
+Today, I managed to complete the 'APIs in Python' course in Datacamp, which felt more like a revision exercise, so I continued into the next course 'Cleaning Data in Python'.  
+
+I managed to complete the first two chapters, which dealt with common data problems with some scenarios and exercises to complete with cleaning text, value consistency, dropping or filtering duplicates, and inconsistent categories.  
+I also was made aware of the assert keyword today, which is paramount to testing and checking data for it's validity, amongst numerous other use cases. Once again, surprised to only come across it now in Python when I have seen the equivalent in other languages! 
+
+Data Engineer in Python - 46% complete.  
+
 <div align = "center"><a href="2025-07.md">July 2025</a></div>
