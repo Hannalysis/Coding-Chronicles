@@ -129,7 +129,7 @@ Finally, I started the Data Engineer in Python career path in Datacamp, and due 
 
  ------------
 
- --- August 20th ---  
+--- August 20th ---  
 2025-08-20
 
 Today I continued plowing through the content within the Data Engineer in Python career track in Datacamp, and managed to complete two courses.  
@@ -145,7 +145,7 @@ I finished off my session by returning to the colab project.  I started with ref
 
 ------------
 
- --- August 23rd ---  
+--- August 23rd ---  
 2025-08-23
 
 Much like the last entry, today I continued my studying with Datacamp on the Data Engineer in Python career track.  
@@ -154,7 +154,7 @@ I managed to get through 2/3 's of the next course, which focused on importing n
 
 ------------
 
- --- August 24th ---  
+--- August 24th ---  
 2025-08-24
 
 I managed to finish the Introduction to Data Importing in Python, and the follow-up Intermediate course today! 
@@ -166,7 +166,7 @@ Data Engineer in Python - 35% complete.
 
 ------------
 
- --- August 26th ---  
+--- August 26th ---  
 2025-08-26
 
 Today, I managed to complete the 'APIs in Python' course in Datacamp, which felt more like a revision exercise, so I continued into the next course 'Cleaning Data in Python'.  
@@ -175,5 +175,16 @@ I managed to complete the first two chapters, which dealt with common data probl
 I also was made aware of the assert keyword today, which is paramount to testing and checking data for it's validity, amongst numerous other use cases. Once again, surprised to only come across it now in Python when I have seen the equivalent in other languages! 
 
 Data Engineer in Python - 46% complete.  
+
+------------
+
+--- August 27th ---  
+2025-08-27
+
+After a quick warm-up practice session with Datacamp on high level Data Engineering topics, I decided to return to the colab project today.  
+
+I managed to refactor the initial game logic by extacting round 1 logic to it's own file, adding modular css and also resolving additional Fast Refresh warnings by separating some context components and hooks into their own files.  I also implemented a basic RoundFactory component, so additional rounds can be added dynamically and passed to the Game file when the round is changed.  
+
+------------
 
 <div align = "center"><a href="2025-07.md">July 2025</a></div>
