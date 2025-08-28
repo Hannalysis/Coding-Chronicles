@@ -183,7 +183,7 @@ Data Engineer in Python - 46% complete.
 
 After a quick warm-up practice session with Datacamp on high level Data Engineering topics, I decided to return to the colab project today.  
 
-I managed to refactor the initial game logic by extacting round 1 logic to it's own file, adding modular css and also resolving additional Fast Refresh warnings by separating some context components and hooks into their own files.  I also implemented a basic RoundFactory component, so additional rounds can be added dynamically and passed to the Game file when the round is changed.  
+I managed to refactor the initial game logic by extracting round 1 logic to it's own file, adding modular css and also resolving additional Fast Refresh warnings by separating some context components and hooks into their own files.  I also implemented a basic RoundFactory component, so additional rounds can be added dynamically and passed to the Game file when the round is changed.  
 
 ------------
 
@@ -192,8 +192,10 @@ I managed to refactor the initial game logic by extacting round 1 logic to it's 
 
 Much like yesterday, after a quick recap on the initial Chapters of Cleaning Data in Python on Datacamp, I decided to focus on the colab project again today.  
 
-I managed to implement a basic multiple choice (and buttons) functionality, and abstracted away the multiple choice shuffling function to the utils folder.  I also sorted out the default styling as it was favouring light mode however it was quite illegible as I favour dark mode I was working with light fonts.  
-Outside of that, I actioned a little bit of refactoring and tidying up redundant code, and pushed to the remote branch to check the preview deployment. 
+I managed to implement a basic multiple choice (and buttons) functionality, and abstracted away the multiple choice shuffling function to the utils folder.  I also sorted out the default styling as it was favouring light mode however it was quite illegible as I favour dark mode I was working with light fonts.    
+Outside of that, I actioned a little bit of refactoring and tidying up redundant code, and pushed to the remote branch to check the preview deployment.   
+
+I finished off my day with a little bit of a light delve into data uniformity, by completing some exercises on cross data validation techniques in Datacamp.  
 
 ------------
 
