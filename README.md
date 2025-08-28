@@ -187,4 +187,14 @@ I managed to refactor the initial game logic by extacting round 1 logic to it's 
 
 ------------
 
+--- August 28th ---  
+2025-08-28
+
+Much like yesterday, after a quick recap on the initial Chapters of Cleaning Data in Python on Datacamp, I decided to focus on the colab project again today.  
+
+I managed to implement a basic multiple choice (and buttons) functionality, and abstracted away the multiple choice shuffling function to the utils folder.  I also sorted out the default styling as it was favouring light mode however it was quite illegible as I favour dark mode I was working with light fonts.  
+Outside of that, I actioned a little bit of refactoring and tidying up redundant code, and pushed to the remote branch to check the preview deployment. 
+
+------------
+
 <div align = "center"><a href="2025-07.md">July 2025</a></div>
