@@ -206,7 +206,7 @@ Wanting to keep momentum on the progress of the colab app, I continued working o
 
 This included continuing to build with scalability where possible.  I did this by abstracting the building blocks of MultipleChoice and placed it into it's own component, and improving the getRandomPokemon logic to ensure each mon is unique throughout the entire quiz, not just the current round.  
 On the round itself, I implemented round end condition logic, including button disables and a question/pokemon image limit.  I also added a basic score counter and added it to the onClick logic.   
-
+  
 Its been a productive day in React and I've learnt a lot. One thing I only realised today, is that when running in dev in React Strict mode - functions are double-invoked, which confused me at first, as when I was console logging to ensure that the unused pokemon list was decreasing appropriately, it was always skipping one on the intiial render.  
 However, once I ran the production environment, the array was behaving as expected.   
 
