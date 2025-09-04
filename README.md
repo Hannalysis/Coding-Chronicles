@@ -10,6 +10,7 @@ Today I'm feeling happy about opening a PR in the colab project, I just need to 
 
 So this afternoon I returned my focus to the career track in Datacamp, 'Data Engineer in Python'.  I completed the last chapter of the 'Cleaning Data in Python' course, which had me focusing on exercises for comparing strings, utilising the thefuzz and recordlinkage libraries.  
 I went through the motions of calculating similarities of strings, generating pairs, drawing comparisons and finally linking them back to the DataFrame.  
+  
 I then started the optional cleaning data project on Datacamp, where I split the data into 3 separate dataframes, and have managed to clean up the first one of 3.  I aim to continue and finish this exercise tomorrow morning.  
 
 ------------
