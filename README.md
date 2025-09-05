@@ -48,5 +48,16 @@ Data Engineer in Python - 53% complete.
 
 ------------
 
+--- September 5th ---  
+2025-09-05
+
+Before continuing my studying, I decided to spent this morning making a couple of minor refactors inside the MultipleChoice component as per my reviewer's suggestion from the previous PR, and opened a new PR, which we can go through next week.  
+
+Then I spent the rest of my allocated time finishing up the course on 'Writing Efficient Python Code' in Datacamp.  Utilising timeit, I was able to see how improving what's executed in loops can make a huge difference on execution time.  In summary, its good to place one-time calculations above the loop, and holistic conversions after.  
+  
+I was also introduced to the benefits of comparing data using sets rather than lists; and applying this with the use of intersection(), difference(), symmetric_difference() and union() datatype methods.  
+
+------------
+
 <div align = "center"><a href="2025-08.md">August 2025</a></div>
 
