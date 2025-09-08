@@ -59,5 +59,17 @@ I was also introduced to the benefits of comparing data using sets rather than l
 
 ------------
 
+--- September 8th ---  
+2025-09-08
+
+This week I'm determined to make great strides through my current career track course in Datacamp, so that was my primary focus today.  
+
+I managed to complete an entire course, 'Streamlined Data Ingestion with Pandas'.  In all fairness, at least two of the chapters were mostly recap and revision, due to the fact that we had covered some of these topics for importing and reading JSON, APIs and SQL in earlier courses in this track, and back in the Associate Data Engineer in SQL course.  
+However, I can say I got a lot out of the 2nd chapter, which was focused on excel data.  I'm still fairly green at processing excel sheets with pandas (partly due to the fact that I usually convert the excel files to other formats first!).  So I learnt how to select particular column ranges, sheet selections, and setting custom bool values - all with the pd.read_excel() function.  
+
+Data Engineer in Python - 64% complete.  
+
+------------
+
 <div align = "center"><a href="2025-08.md">August 2025</a></div>
 
