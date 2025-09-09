@@ -71,5 +71,18 @@ Data Engineer in Python - 64% complete.
 
 ------------
 
+--- September 9th ---  
+2025-09-09
+
+Keeping inline with yesterday's statement, I've made good on my word to continue focusing my studying with Datacamp.  
+
+I got a bit lucky regarding today's progress as I blitzed through two courses on Git alone, and 3 chapters of 'Software Engineering Principles in Python'.  One interesting takeaway from the latter course, is that there is a library that checks and outputs messages to inform whether the file/s code is PEP 8 compliant.  
+  
+This is pycodestyle; I did many exercises utilising this and I'm looking forward to utilise this library to check against some of my older ongoing projects.  
+
+I ended the day with a lovely follow-up chat with my colab regarding our quiz project, and we've agreed on a couple of major tasks each to help us get our MVP in good stead. Really looking forward to making tracks on it again! 
+
+------------
+
 <div align = "center"><a href="2025-08.md">August 2025</a></div>
 
