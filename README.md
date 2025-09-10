@@ -84,5 +84,18 @@ I ended the day with a lovely follow-up chat with my colab regarding our quiz pr
 
 ------------
 
+--- September 10th ---  
+2025-09-10
+
+Not feeling my best today, but managed to continue making strides in my studying.  
+
+I managed to complete the last chapter of the 'Software Principles in Python course', and it's follow-up mini-project exercise of improving multiple functions utilising the PEP8 and DRY principles.  
+  
+I also started making progress on the 'ETL and ELT in Python' course, completed the first chapter which felt more like a recap and akin to previous data pipeline courses I've studied prior within Datacamp.  
+
+Data Engineer in Python - 86% complete.  
+
+------------
+
 <div align = "center"><a href="2025-08.md">August 2025</a></div>
 
