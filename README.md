@@ -97,5 +97,19 @@ Data Engineer in Python - 86% complete.
 
 ------------
 
+--- September 11th ---  
+2025-09-11
+
+Feeling more on form today, and I managed to complete the 'ETL and ELT in Python' course! One more course to go until the track is complete.  
+
+Once again, I felt that there was a lot of overlap on this particular course, from other courses on this track as well as from the Associate Data Engineer track.  One thing that did stand out to me, was my introduction to @pytest.fixture, during the validation of data pipelines segment.  
+They actually behave in a similar fashion to a decorator, and allows more modular coding practices as well as the reusability of the functions within a testing script.  
+
+Outside of that, I did many exercises on reading in different file types to load into a local database - this was also my first encounter with the parquet file type (similar to csv, but processes faster).  
+
+Data Engineer in Python - 92% complete. 
+
+------------
+
 <div align = "center"><a href="2025-08.md">August 2025</a></div>
 
