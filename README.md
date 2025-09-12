@@ -111,5 +111,23 @@ Data Engineer in Python - 92% complete.
 
 ------------
 
+--- September 12th ---  
+2025-09-12 
+
+I spent today working through the 'Introduction to Apache Airflow in Python' course, and managed to complete it! 
+
+Definately did not breeze through this one, as it is a new tech and it was refreshing to get to grips with it.  I learnt about defining a DAG, multiple different Operators, scheduling tasks, branching together tasks, and creating templated commands.  
+I'm looking forward to utilising Airflow as part of my CLI process in my current data project, WoC.  
+  
+Also, thanks to the course I was indirectly introduced to the cron syntax as an option for creating a schedule with as opposed to presets.  
+
+Therefore, now I can say...  
+
+Data Engineer in Python - 100% complete!!!  
+
+Next week: More project focused!
+
+------------
+
 <div align = "center"><a href="2025-08.md">August 2025</a></div>
 
