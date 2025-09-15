@@ -129,5 +129,19 @@ Next week: More project focused!
 
 ------------
 
+--- September 15th ---  
+2025-09-15
+
+I'm finding it hard to believe it's already been a month since my last commit for my data project, WoC. Today, that changes :) 
+
+After re-familiarising myself with where I had left the project, I wanted to still finish the work I had started on the initial querying and visualisation branch. However, that still allowed me to make some refactors and adjustments!  
+First and foremost I decided to utilise the sqlalchemy module (in addition to just psycopg) for a cleaner implementation for querying. I then created a function that saves the query into a local csv (to be visualisation ready), which I abstracted away into a utils folder to implement in a modular fashion thanks to the sys module.  
+
+This also made me realise that some of my hard coded directory links for a lot of my code would not be useful if the project were to move to other devices/other people were to download it.  So I utilised the pathlib module to start swapping them out with something more concrete and unified so any pc setup may run it.  
+
+All in all, I ended up pushing mostly chore and refactor commits outside of the first query result, however this puts me in a good position to do the visualisation work tomorrow.  
+
+------------
+
 <div align = "center"><a href="2025-08.md">August 2025</a></div>
 
