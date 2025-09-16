@@ -143,5 +143,18 @@ All in all, I ended up pushing mostly chore and refactor commits outside of the 
 
 ------------
 
+--- September 16th ---  
+2025-09-16
+
+As I mentioned yesterday, today I spent time working on the visualisation item in WoC.  
+
+Due to the nature of the results of the initial question asked, heatmaps in folium were not quite suitable, so I utilised markers, which when hovered over gave additional information.  
+  
+I added a table and a key to the front-end, and encountered a bit of wrestling with streamlit's restricted styling for the first time.  I columnised the main content so I could have the folium map on the left and the key on the right, however, other parts were not sitting in the correct places until I realised where you initiate the columns within the file itself is crucial.  I'm now used to CSS and I did not want to use the unsafe html just so I could correct the alignments.  Although good for quick mock-ups, I want to utilise a different front-end solution for the final obversations of this project.  
+
+The first visualisation is done, and tomorrow's main focus will be to give the readme a much needed overhaul before merging the content across.  
+
+------------
+
 <div align = "center"><a href="2025-08.md">August 2025</a></div>
 
