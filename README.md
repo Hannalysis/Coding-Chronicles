@@ -156,5 +156,15 @@ The first visualisation is done, and tomorrow's main focus will be to give the r
 
 ------------
 
+--- September 17th ---  
+2025-09-17
+
+Today I managed to complete the readme and additional comments through scripts to aid a reader's experience through the WoC project.  
+
+It took longer than expected, but I'm feeling good about finally getting to merge the much needed update to main.  
+
+Today was also the day I realised you could utilise html in markdown to create a 'column' like effect to share two images side by side (by containerising them, and sharing a width of 45% each), which was helpful in my overview where one image did not visually explain what the project is about.  
+
 <div align = "center"><a href="2025-08.md">August 2025</a></div>
 
+------------
