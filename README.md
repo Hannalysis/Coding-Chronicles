@@ -175,6 +175,7 @@ Yesterday became more of a project admin day; focusing on project planning and i
 I havn't quite decided what my next priorities are regarding my data project, so I thought today would be a good day to stretch my front-end styling legs.  So I decided to initiate one of my planned front end mentor challenges - the Fylo Data Storage Component.  
 
 After the initial planning, and first containerising PR merged into the initiated challenge, I actually hit my first stumbling block in the background image styling.  More specifically, the desktop variant - which has the image take up half of the bottom space (with a bit of a curve to show the background colour) and background colour that is not utilised in the mobile setup (it's just the image covering the entire background).  It took me many different trial and error ways before settling with an ::after approach, to layer the image on after the initial background has loaded in.  
+  
 This may not end up being the final implementation of this, but it's good enough to push and I'm looking forward to focusing more on the overall styling of this challenge soon, (especially the progress bar!).  
 
 ------------
