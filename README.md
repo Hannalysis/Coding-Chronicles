@@ -178,4 +178,15 @@ After the initial planning, and first containerising PR merged into the initiate
 
 ------------
 
+--- September 22nd ---  
+2025-09-22
+
+Today I started working on the Github issues I'd created to continue my data project, WoC.  
+
+So I created a new branch and begin creating a data validation script, for my loaded tables in the local postgresql db instance.  
+  
+I got the basics written for both (ie nulls, dups) and started the format checks. I created one to check title cases for location names, however there were 8 exceptions due to hyphens & appostrophes. I initially imported re and wanted to go through a loop to iterate through these exceptions; but when I looked at the resulting code bloat for a static dataset where I do not intend to add more locations, I thought for clarity's sake it was better and cleaner to add an exceptions set (not list, for speed) for the function to ignore those bespoke locations.  
+
+------------
+
 <div align = "center"><a href="2025-08.md">August 2025</a></div>
