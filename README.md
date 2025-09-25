@@ -189,4 +189,16 @@ I got the basics written for both (ie nulls, dups) and started the format checks
 
 ------------
 
+--- September 25th ---  
+2025-09-25
+
+Over the last couple of days I managed to get my data validation checks in a good space, and gave a test run. I was pleasantly surprised to see that my UK lat & long validation checks were fruitful - over 60 and 70 entries were flagging as outside the boundaries!  
+
+This made me shift my plan a little. I decided I needed to begin implementing logs now, rather than on a separate branch later, so I could capture and leave an appropriate paper trail.  
+Most of my data validation outputs transferred from print statements to info logs well, except I had to implement a log wrapper function on the lat & long validation functions, as they were logging the dataframe previews, meaning I would be missing a lot of the invalid records.  
+
+With an appropriate logging function up and running, I ran the script and made the first official log; timestamped and placed into a generated logs folder. With this recorded, I was then able to add a supporting document, and I'm ready to create the script to update the local db next.   
+
+------------
+
 <div align = "center"><a href="2025-08.md">August 2025</a></div>
