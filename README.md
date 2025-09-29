@@ -201,4 +201,15 @@ With an appropriate logging function up and running, I ran the script and made t
 
 ------------
 
+--- September 29th ---  
+2025-09-29
+
+Friday ended up being busy; I made sure my data validation branch was in a good place to merge, and I also reviewed a PR from my colab partner for our quiz project! 
+
+After starting a new branch for the intention to update the local db and the ETL pipeline both, and cleaning up the remaining directory pathing with pathlib, I noticed something when looking over my log file of out of bound entries - I knew places that should be within the UK co-ordinate ranges. So I went back to my API enrichment script, and realised the search query from the base_url was missing the 'countrycodes=gb' parameter. This would have saved me a fair bit of hassle. So I have re-fetched the entries and surely enough, all of them are now within the UK ranges (which could be fetched).  
+
+First thing tomorrow I intend to double check few locations that did not fetch any geodata at all, create logging for the API fetch script (long overdue), and add logic to fill the manual geocodes I had from the original data input into the pipeline without manual intervention.
+
+------------
+
 <div align = "center"><a href="2025-08.md">August 2025</a></div>
