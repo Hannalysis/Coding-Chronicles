@@ -24,7 +24,15 @@ After successfully running the data validation tests for WoC, I was able to merg
 
 Today I created my coding plans for the month, and after a quick update on my WoC readme (I'd forgotten to update my data validation tables to match the new figures) I decided to turn my eyes onto something new.  
 
-I've been very curious about developing in Unity for awhile (especially integrating with Wwise), so I wanted to gently delve into some C#. 
+I've been very curious about developing in Unity for awhile (especially integrating with Wwise), so I wanted to gently delve into some C#.  
+I say gently partially due to the fact that it took longer than I expected to get VS Code to recognise the dotnet SDK (pathing issues!). Thankfully, installing and getting C# up and running in Visual Studio was painless.  
+
+Once I'd insured both DE's were able to run very basic programs, I started to turn my attention to the intro in C# course in Codecademy so I can familiarise myself with the syntax differences from the languages I am familiar with.  
+
+My main takeaway from that today is that the typings for handling numerical values have 3 options; float (not great), double (more precise than float, fastest execution times) and decimal (most precise).  Additionally, when setting a value to either decimal or float a trailing character is required at the end for float (f), or decimal (m).
+Double can use d but it's assumed automatically.  
+
+Intro to C# progress - 60% complete. 
 
 ------------
 
