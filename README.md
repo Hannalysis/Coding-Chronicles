@@ -20,7 +20,7 @@ Tomorrow, I'll run the hopefully final data validation test - and merge my datab
 --- October 13th ---  
 2025-10-13
 
-After sucessfully running the data validation tests for WoC, I was able to merge the branch into main that Friday before last. After that I decided I required a much needed break, so I took last week off to relax and re-energise. 
+After successfully running the data validation tests for WoC, I was able to merge the branch into main that Friday before last. After that I decided I required a much needed break, so I took last week off to relax and re-energise. 
 
 Today I created my coding plans for the month, and after a quick update on my WoC readme (I'd forgotten to update my data validation tables to match the new figures) I decided to turn my eyes onto something new.  
 
