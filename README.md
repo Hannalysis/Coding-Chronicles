@@ -36,4 +36,20 @@ Intro to C# progress - 60% complete.
 
 ------------
 
+--- October 15th ---  
+2025-10-15
+
+Yesterday, I managed to complete the remainder of the Intro to C# course with ease (as it was only the basics).  
+I could have continued into a more extensive course, but as Unity has it's own syntax too I've decided to set up Unity this morning, and go for the 'just in time' approach for this learning adventure!  
+
+However, realising it had been a while since I made any progress on the colab project, I decided to branch off and start the round 1 styling.  
+I thought I had made decent progress even with the basics (gradient background, fonts, and global styling variables). However I noticed when running the 'preview' instead of 'dev' (in React) my backgrounds were just black.  
+  
+Additionally, I attempted to utilise separate backgrounds for round one (depending on generation selection). Due to the fact our temp game selector return button is outside of the round component I'm styling, I was unable to make a fully covered background without making the styling a global change.    
+  
+I attempted a useEffect to add and remove classes to the body (as that would cover the whole screen) to no avail.  I'm going to park this for today and resolve these issues next time I'm on it.  
+
+------------
+
 <div align = "center"><a href="2025-09.md">September 2025</a></div>
+
