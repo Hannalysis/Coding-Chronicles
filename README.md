@@ -51,5 +51,19 @@ I attempted a useEffect to add and remove classes to the body (as that would cov
 
 ------------
 
+--- October 16th ---  
+2025-10-16
+
+Today I first returned to the colab project, to resolve my issues from yesterday afternoon.  
+
+I came back already realising my problem with the background not showing up at all on the preview build; the CSS variable was inside a modular CSS file that was not being utilised in it's relevant component file, so I had to move it.  This reminded me how important it is to npm run build & preview before committing changes.   
+
+The second one was a bit more tricky. I discovered I could utilise prop drilling and grab the isolated button (which is not yet a bespoke component) into the round component, however, it would involve changing the logic of both files my comrade added recently, and it's far removed from my initial round 1 visual styling task.  
+Therefore, I only refactored a file to added the ability to use modular css on that component, and used that to push the return button to the top of the page, giving me as much space as possible to style and continue my work.  
+
+After testing, pushing and previewing the changes, I was pleased with the progress and decided it was a good time to switch it up.  
+
+------------
+
 <div align = "center"><a href="2025-09.md">September 2025</a></div>
 
