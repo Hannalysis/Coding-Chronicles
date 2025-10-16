@@ -61,7 +61,7 @@ I came back already realising my problem with the background not showing up at a
 The second one was a bit more tricky. I discovered I could utilise prop drilling and grab the isolated button (which is not yet a bespoke component) into the round component, however, it would involve changing the logic of both files my comrade added recently, and it's far removed from my initial round 1 visual styling task.  
 Therefore, I only refactored a file to added the ability to use modular css on that component, and used that to push the return button to the top of the page, giving me as much space as possible to style and continue my work.  
 
-After testing, pushing and previewing the changes, I was pleased with the progress and decided it was a good time to switch it up.  
+After testing, pushing and previewing the changes, I was pleased with the progress and decided it was a good time to switch it up.  So I spent the remainder of the afternoon going through the in-editor Unity tutorials.
 
 ------------
 
