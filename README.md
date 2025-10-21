@@ -65,5 +65,16 @@ After testing, pushing and previewing the changes, I was pleased with the progre
 
 ------------
 
+--- October 21st ---  
+2025-10-21
+
+It's been a few days of non-code specific learning. I started working through the Unity Essentials course on Friday as a wind down from a productive week.  
+  
+However, I ended up with joint pain and feeling under the weather over the weekend, so I kept it more lightweight this week so far. I started learning the basics of Tableau through Datacamps 'Data Analyst in Tableau' career track.  I do not have the intent to just push through all the content at once; I want to focus on the areas that will have the most direct use and impact for my data project for now, so I'm aiming for the Visualisations in Tableau course, which requires the intro and analytical courses to be completed first (all of which, are part of the track).  
+
+Intro to Tableau - 51% complete.
+
+------------
+
 <div align = "center"><a href="2025-09.md">September 2025</a></div>
 
