@@ -74,6 +74,14 @@ However, I ended up with joint pain and feeling under the weather over the weeke
 
 Intro to Tableau - 51% complete.
 
+I had a bit of time and energy after this, so I moved back onto my data project WoC, to branch of and begin adding pytests.  
+I'm not sure why I started with the more challenging test (after adding the initial scaffolding); to mock the API fetch.  After adding the appropriate code and imports from unittest and the function in question, I realised the actual file code was running too (it was overwriting one of my processed data files!).  
+Once I commented out the code from the original file in question, the tests were executing in question.  Then I realised I had not safe guarded the file itself, with: 
+
+    if __name__ == "__main__":
+
+I thought I understood this code, but it turns out I did not! So, wrapping this around my function block in the original file meant I could run the imported function with my mock code in isolation on the test file. 
+
 ------------
 
 <div align = "center"><a href="2025-09.md">September 2025</a></div>
