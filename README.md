@@ -84,5 +84,29 @@ I thought I understood this code, but it turns out I did not! So, wrapping this 
 
 ------------
 
+--- October 23rd ---  
+2025-10-23
+
+I completed the 'Intro to Tableau' course yesterday, so I wanted a bit of a palette cleanser before heading onto the next one.  
+
+So I continued working on the styling of the colab quiz project; ensuring all the elements are now displayed in their appropriate locations, and focused on the multiple choice component styling - adhereing to the initial figma wireframes I created a while back.  
+Today I realised two things:
+
+1.  The CSS property 'background-color' is surprisingly restrictive; gradients have to be utilised within the 'background' property (much like images etc).
+2.  Hexadecimal colour codes do use opacity; by adding two digits (numbers or letters) to the end of the original 6 digits. I used to defer to the rgba elements if I needed to change the transparency of something!
+
+        Hex	Decimal	Opacity
+        00	0	0% (transparent)
+        1A	26	10%
+        33	51	20%
+        4D	77	30%
+        66	102	40%
+        80	128	50%
+        99	153	60%
+        B3	179	70%
+        CC	204	80%
+        E6	230	90%
+        FF	255	100% (opaque)
+
 <div align = "center"><a href="2025-09.md">September 2025</a></div>
 
