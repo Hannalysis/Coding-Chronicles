@@ -108,5 +108,9 @@ Today I realised two things:
         E6	230	90%
         FF	255	100% (opaque)
 
+I finished my session by starting the 'Analyzing Data in Tableau' course on Datacamp. I intend to complete the first chapter tomorrow morning.
+
+------------
+
 <div align = "center"><a href="2025-09.md">September 2025</a></div>
 
