@@ -112,5 +112,19 @@ I finished my session by starting the 'Analyzing Data in Tableau' course on Data
 
 ------------
 
+--- October 31st ---  
+2025-10-31
+
+This week I've been happy with my progress: merged my unit testing content into main on my WoC data project, made strides in the styling in the colab quiz app, and completed the Unity essentials course.  
+
+It's the styling realisation I had today whilst having more of a wind down session with a front end mentor challenge that made me want to log the following learning:  
+  
+If a container flexbox direction is row, justify-content centres horizontally & align-items centres vertically.  
+If a container flexbox direction is column, justify-content then centres vertically therefore align-items centres horizontally.  
+
+Hopefully this saves me a few sporadic clicks within the dev tools in future!  
+
+------------
+
 <div align = "center"><a href="2025-09.md">September 2025</a></div>
 
