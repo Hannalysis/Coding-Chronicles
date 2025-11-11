@@ -35,7 +35,7 @@ Today I'm pleased I managed to progress through the last two chapters of the 'Da
 I got to explore more geospatial charts, and further looks into dashboard creations, and finally got my first introduction to stories in Tableau. I had a great time, and I'm very much looking forward to utilising this tool in my data project.  
 
 As I had a couple of hours left this afternoon, I decided to update my website: I realised that adding new learning pieces was chunky in how I had to manually edit the objects and ids, so today I had to address it.  
-So I refactored the component; abstracted away the TypeScript object declarations, and more importantly, moved the data objects from the tsx file, and dynmically added id onto the imported data objects (timeline items).  Oh my word, its such a time saver. I should have done this earlier. 
+So I refactored the component; abstracted away the TypeScript object declarations, and more importantly, moved the data objects from the tsx file, and dynamically added id onto the imported data objects (timeline items).  Oh my word, its such a time saver. I should have done this earlier. 
 It also got me to look at my source code for my website and I've created a new github issue to refactor on more of a global scale, next time I'm focusing on this project again.  
 
 Data Analyst in Tableau career track: 33% complete. 
