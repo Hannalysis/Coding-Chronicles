@@ -42,4 +42,25 @@ Data Analyst in Tableau career track: 33% complete.
 
 ------------
 
+--- Nov 14th ---  
+2025-11-14
+
+Today I focused my efforts on the quiz colab project.  In particular, the layout for the desktop view for Round 1.  
+
+I know I needed to utilise a grid effect for most of the content. What I had to figure out was how to push up a grid element from the column under a grid element on the right-side, that happens to be smaller than it's left adjacent grid section. 
+Turns out, I had to add an additional span to the left grid section space, so the item on the right had room to move up:
+
+    .desktopContainer {
+       display: grid;
+       grid-template-columns: 1fr minmax(0, 1fr);
+       grid-auto-flow: row dense;
+    }
+    .imgBorder {
+       grid-row:span 2;
+       display: flex;
+       flex-direction: column;
+    }
+    
+ ------------
+
 <div align = "center"><a href="2025-10.md">Oct 2025</a></div>
