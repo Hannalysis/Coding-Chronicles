@@ -63,4 +63,15 @@ Turns out, I had to add an additional span to the left grid section space, so th
     
  ------------
 
+ --- Nov 21st ---  
+2025-11-21
+
+I utilised the earlier part of this week refactoring a couple of my React & TS projects; in particular abstracting away type and interface declarations and placing them in a bespoke folder, within the components folder (an appropriate location as I have no type requirements for import outside of that folder).  
+
+Today I decided to return to some styling fundamentals for a breather & refresher, and completed a couple of CSS modules in Codecademy's Front-End Engineer path.  It was helpful to learn a term by name on selector syntax I already use regularly; chaining (ie .class-one.class-two).  
+I also learnt that you can access a link by only specifying the name at the end of the path with an attribute selector: a[href*='name'].  
+Additionally, it struck me that padding and margin order is clockwise from top (for 4 labels) - however, its rare that I've encountered this over just the 2/3 labels.   
+
+ ------------
+
 <div align = "center"><a href="2025-10.md">Oct 2025</a></div>
