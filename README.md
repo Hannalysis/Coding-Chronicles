@@ -8,7 +8,7 @@
 
 After updating my site with the latest react and react-dom packages, I thought this would be a good moment to reflect on this week (in-between Christmas tasks!). 
 
-I've spent most of this week continuing to revisit the fundamentals of CSS, partly due to the fact that the majority of my learnings from that stack have been from project and challenges, rather than textbook form.  
+I've spent most of this week continuing to revisit the fundamentals of CSS, partly due to the fact that the majority of my learnings from that stack have been from projects and challenges, rather than textbook form.  
 So, when I do come across something I'm grateful for the context, to the why, rather than just the what.  
 
 I've recently been using Codecademy's Front-End Engineer Career path course to support this.  Importantly, I've learnt the design technique of 'Skeuomorphism'; when styling is applied to an element (ie a button), it's trying to imitate something akin to real life to ease usabiilty for consumers.  However, it's also worth noting that there is merit to it's counterpart, 'Flat' design, where your userbase is more aware of the interactions within your product/platform.  
