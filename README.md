@@ -28,7 +28,7 @@ A couple of CSS property learnings I've had this week so far:
 - There is a CSS math function called clamp(), and it's been amazing to utilise it to give me flexibility and restrict sizing when I need it to.
 - Using opacity primarily on a container can lead into a trap; as all the children will be unable to override it. So keeping opacity to colour values is much safer.
 
-I've also been introduced to Adobe's colour wheel this week, which has been great alternative to experiment with harmonic colour schemes using it's toolkit.
+I've also been introduced to Adobe's colour wheel this week, which has been a great alternative to experiment with harmonic colour schemes using it's toolkit.
 
 ------------
 
