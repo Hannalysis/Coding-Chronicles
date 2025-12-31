@@ -32,4 +32,17 @@ I've also been introduced to Adobe's colour wheel this week, which has been a gr
 
 ------------
 
+--- Dec 31st ---  
+2025-12-31
+
+After a much needed Christmas holiday, I decided to lightly get back into the swing of the coding lifestyle again yesterday!  
+
+I'm pleased to say I managed to complete my branch work for the desktop styling on my last front end mentor challenge on the fylo data component; and it is now live on main (and viewable <a href="https://hannalysis.github.io/front-end-mentor-fylo-data-storage-component/">here</a>).  
+I was happy to utilse the pseudo-element ::after for my pop-out dialog box, to turn the box into more of a speech bubble for the desktop view (to match the intended design).  
+The repo is just awaiting the all-important readme file, which I will entertain in the new year.  
+
+Today I'm feeling a little under a weather with the post Christmas cold, so I'm taking it easy and continuing my front-end course in Codecademy; focusing on colouring and text design.  
+
+------------ 
+
 <div align = "center"><a href="2025-11.md">Nov 2025</a></div>
