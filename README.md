@@ -37,7 +37,7 @@ I've also been introduced to Adobe's colour wheel this week, which has been a gr
 
 After a much needed Christmas holiday, I decided to lightly get back into the swing of the coding lifestyle again yesterday!  
 
-I'm pleased to say I managed to complete my branch work for the desktop styling on my last front end mentor challenge on the fylo data component; and it is now live on main (and viewable <a href="https://hannalysis.github.io/front-end-mentor-fylo-data-storage-component/">here</a>).  
+I'm pleased to say I managed to complete my branch work for the desktop styling on my lastest front end mentor challenge on the fylo data component; and it is now live on main (and viewable <a href="https://hannalysis.github.io/front-end-mentor-fylo-data-storage-component/">here</a>).  
 I was happy to utilse the pseudo-element ::after for my pop-out dialog box, to turn the box into more of a speech bubble for the desktop view (to match the intended design).  
 The repo is just awaiting the all-important readme file, which I will entertain in the new year.  
 
