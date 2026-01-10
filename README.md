@@ -23,7 +23,7 @@ This enlighted me to make a small tweak in one of my front-end mentor projects, 
 
 It's been a difficult week to allocate as much time on coding as I usually do.  However, it's been great to have very focused sessions & aims, to get some much needed continuation on my latest Frontend Mentor (FEM) challenge; the Fylo data storage component. 
 
-I can happily say today I've finished with the mobile-styling implementation; and that branched is now merged to main.  Desktop to follow shortly.  
+I can happily say today I've finished with the mobile-styling implementation; and that branch is now merged to main.  Desktop to follow shortly.  
 A couple of CSS property learnings I've had this week so far: 
 - There is a CSS math function called clamp(), and it's been amazing to utilise it to give me flexibility and restrict sizing when I need it to.
 - Using opacity primarily on a container can lead into a trap; as all the children will be unable to override it. So keeping opacity to colour values is much safer.
