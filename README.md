@@ -37,7 +37,7 @@ BUTTONS - At least 1W of padding for each side of a button label (best to go for
 To keep expanding my data knowledge, I completed a high-level course yesterday on 'Marketing Analytics for Business' with Datacamp. This gave me an overview of campaign analysis, privacy implications, text analysis & forecasting requirements. 
 As the course itself was a little dry, I also weaved in some front-end reading (which continued into today).  
 
-And today, I updated my site - as I realised one of my continued learning cards was not displaying all information appropriately. Turns out, one of my entries within my data file utilised the incorrect property name for the 'course' type.  
+And today, I updated my site - as I realised one of my continued learning cards was not displaying all information appropriately. Turns out, one of my entries within my data file utilised the incorrect name for a particular property within the 'course' type.  
 
 ------------
 
