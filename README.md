@@ -39,6 +39,12 @@ As the course itself was a little dry, I also weaved in some front-end reading (
 
 And today, I updated my site - as I realised one of my continued learning cards was not displaying all information appropriately. Turns out, one of my entries within my data file utilised the incorrect name for a particular property within the 'course' type.  
 
+Further takeaways from Frontend Unicorn (47% read):
+- Loading states are better represented with skeleton screens
+- Cut out icons require bounding boxes for ease of implementation
+- Reasonable markup improves your search ranking
+- Test focus states for keyboard only navigation
+
 ------------
 
 <div align = "center"><a href="2025-12.md">Dec 2025</a></div>
