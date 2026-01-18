@@ -47,4 +47,29 @@ Further takeaways from Frontend Unicorn (47% read):
 
 ------------
 
+--- Jan 18th ---  
+2026-01-18
+
+On Friday, I managed to get some follow-up feedback from the code review of my recent branch for my colab project (which, I will start to codename as Po-Qu as I will be starting another colab in the near future!).  
+So that merge for mobile first styling is now in main (along with some much needed package updates!), and a session for further comms is pencilled in for the week after next; so I may have time to add additional commits to improve the desktop styling and potentially add in the reveal anim mechanic (as previously agreed upon).  
+
+Though, the reason I'm really logging today as I've just managed to complete my first read-through of the Frontend Unicorn ebook.  
+Here are some takeaways from the mobile section, which provided me with valuable insights:  
+- In future products where I'd want to learn and utilise React Native, I should consider frameworks such as SwiftUI for a smoother transition from React syntax.
+- If there is a radio button or checkbox, a user will assume they can also click the label to interact with it. Syntax example for setup:
+
+      <input 
+        type="checkbox" 
+        id="option1"
+      />
+      <label for="option1">
+       Option 1
+      </label>
+- Screen readers will benefit from the ARIA attribute role = "button" to force behaviour on non buttons, to behave like a button.
+- If a clickable area looks small, it's best to use a larger invisible clickable area for the button, especially for mobile users.
+- As hover only works on desktop, using a 'ripple' like effect will produce feedback of a similar natureon mobile.
+- Everything that should be focusable: Links | Options & Menus | Buttons | Inputs | Text areas | Selects | Custom Pickers
+
+I'm looking forward to leveraging these learnings to make improvements not only to my site and Po-Qu, but all my new projects going forward. Also, looking forward to getting my hands on more of the recommended reads and pick what area to focus on next! 
+
 <div align = "center"><a href="2025-12.md">Dec 2025</a></div>
