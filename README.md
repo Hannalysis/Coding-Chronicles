@@ -65,11 +65,33 @@ Here are some takeaways from the mobile section, which provided me with valuable
       <label for="option1">
        Option 1
       </label>
+  
 - Screen readers will benefit from the ARIA attribute role = "button" to force behaviour on non buttons, to behave like a button.
 - If a clickable area looks small, it's best to use a larger invisible clickable area for the button, especially for mobile users.
 - As hover only works on desktop, using a 'ripple' like effect will produce feedback of a similar natureon mobile.
 - Everything that should be focusable: Links | Options & Menus | Buttons | Inputs | Text areas | Selects | Custom Pickers
 
 I'm looking forward to leveraging these learnings to make improvements not only to my site and Po-Qu, but all my new projects going forward. Also, looking forward to getting my hands on more of the recommended reads and pick what area to focus on next! 
+
+------------
+
+--- Jan 23rd ---  
+2026-01-23
+
+It's been a very productive week!  
+
+Monday, I started working on a new colab project - and we managed a full planning session on a Figjam board, hand drawn simple sketches of what our pages/views could look like, and decided what we wanted our app to focus on.  
+Tuesday, I opened a joint repository and Github project to assign our first set of pre-production issues, we created our desired list of criteria for our MVP & supporting tech stack, and we created the final sketch for our first view. We also allocated a couple of areas of ownership, and I was honoured to be allocated product and design owner.  I will also be implementating the majority of feature areas of the front end so I'm very much looking forward to translating my figma wireframes into the resulting application.  
+
+On Wednesday I wanted to turn my attention to the Po-Qu colab project, to continue working on the desktop styling implementation for round 1.  I made some good progress, however I noticed I was spending a lot of time checking out properties of grid.  
+So I intentionally paused on that for the remainder of the day, and decided to setup the figma wireframe template for the desktop layout on the new colab project (going to refer to it as Relic from here on out), and add the Grid Layer (utilising the sensibilities taught from Frontend Unicorn; 12 columns, 24px gutter, 80px margin (and 8px gaps)).  I also learnt how to setup my nav and footer layers with the appropriate padding and wrapper layers.  
+
+So Thursday was to be my learning day, and I spent it back on the Codecademy career path 'Front End Engineer'.  I happened to have stopped right at the introduction of the Grid layout, so I got stuck in and came out learning and understanding the various syntax and short-hand versions thereof.  
+Interestingly, I also learnt that Grid layout can be known as Explicit or Implicit, and the one you use depends on the implementation you require.  If theres an unknown amount of entries that populate within an area, you'd create an Implicit Grid implementation so grid items fill up rows first, adding new rows as necessary and newly generated grid rows will only be tall enough to contain the content within them.  
+
+After gaining some much needed grid knowledge I returned to the Po-Qu colab project today and managed to implement the grid section with more success. The elements and components are now aligned appropriately and move as one but remain entirely intact when the page is resized; it looks much better.  
+After pushing up the branch changes remotely I returned to the Relic colab project and started work on wireframing the locations of the content for the MVP view.  
+
+------------
 
 <div align = "center"><a href="2025-12.md">Dec 2025</a></div>
