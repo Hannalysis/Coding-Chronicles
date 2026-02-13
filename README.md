@@ -25,4 +25,13 @@ So I spent the remainder of the afternoon returning to the Front-End Engineer ca
 
 ------------
 
+--- Feb 13th ---  
+2026-02-13
+
+For the rest of the week I've split my focus a little. I've sorted out branch rules and deployed the initial app for the Relic colab, as well as having a PR to review for the first time.  
+
+Otherwise I've been focused on my new personal project; and I've just got a Typography system implemented and design token variables in place. I'm almost ready to deploy and work on the Layout component.  
+
+------------
+
 <div align = "center"><a href="2026-01.md">Jan 2026</a></div>
