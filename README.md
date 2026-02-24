@@ -49,4 +49,17 @@ So today, I'm continuing to build the skeleton & styling of the Layout properly 
 
 ------------
 
+--- Feb 24th ---  
+2026-02-24
+
+Maybe a bit premature to make an entry so early in the week. However I wanted to note that I've been spending today really trying to get to grips with grid, and understand how to implement it for the site I am building.  
+
+I initially overfocused on wanting the grid to show through every area from header to footer, much like the grid layout shown in figma. But I realise now that was a misstep.  
+
+Using grid as a class to pass through to different sections and sub section containers made more sense.  That way I could avoid assigning those constraints to full-bleed containers but also place them inside a child container of the layout components (header & footer), leaving the parents to extend to the full width of the screen.  I also addressed an interesting edge case where I needed a container that outstretched the grid, but still took up less than a typical desktop viewport width, and realised that creating a bespoke container was the correct call for that.  
+
+All in all, I think the landing page I had picked to translate, was not as straight forward as I thought it would be. But I've learnt a lot and I'm looking forward to seeing what else I discover whilst creating this project.
+
+------------
+
 <div align = "center"><a href="2026-01.md">Jan 2026</a></div>
