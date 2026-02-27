@@ -62,4 +62,16 @@ All in all, I think the landing page I had picked to translate, was not as strai
 
 ------------
 
+--- Feb 27th ---  
+2026-02-27
+
+It's already the end of the week, and its been productive! 
+
+I've completed the Header section of the Layout, and started working on the Footer section. I've realised I can utilise Link from reac-router-dom for navigation links, and updated my Typography system to allow these as props.  
+I also lost a bit of time creating a bespoke icon by merging two icons from the react-icons package, and I've managed to get something that's close to the design, and readable to others.  
+
+I look forward to finishing up the Footer work next week and hopefully merging to main, as well as moving back to the Relic colab.
+
+------------
+
 <div align = "center"><a href="2026-01.md">Jan 2026</a></div>
