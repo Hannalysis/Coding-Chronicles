@@ -32,4 +32,17 @@ Last but not least, I also reviewed an initial implementation of the localStorag
 
 ------------
 
+--- March 20th ---  
+2026-03-20
+
+To not lose momentum, I also spent this week on my personal figma to code project.  
+
+I managed to complete two sections; one involving a carousel with a preview of the next one, and a creative layout of static images that are adjusted based on available width spacing.  
+
+The Carousel component segment of this went smoother than expected. I was surprised that the preview of the upcoming carousel item view was doable by adjusting the parent Carousel container's overflow (hidden) and margin property (negative values), along with the usual flex and transform. This was also my fist time really getting a grip of utilising ternarys to toggle active and inactive states based on the current index, and therefore toggling their appropriate styling on the carousel indicators.  
+
+I have noticed that the page is not behaving appropriately when shrinking down to smaller desktop widths overall, so that will be my focus later next week.
+
+------------
+
 <div align = "center"><a href="2026-02.md">Feb 2026</a></div>
