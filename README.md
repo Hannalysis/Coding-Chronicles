@@ -53,7 +53,7 @@ It's been a short week due to family commitments, however I did manage to make s
 As I mentioned in the last update, I decided to focus on making responsive layout adjustments for smaller desktops (1024px), and the mid point between that and the figma design at 1440px (1240px).  
 There are 3 sections that are causing issues as soon as I shrink down from the design level, so after a while of trying to make wholesale changes, I opted for a component/section by section approach, and temporarily commented out those components to make the adjustments  on section content that was a bit more predictable.  With the red outline on, I managed to adjust grid and spacing ratios, and a bit of image clamping, and successfully made adjustments to the Layout (Header & Footer), and 3 of the 6 within the main section.  
 
-One thing that was bothering me when testing responsive feedback on the web page using chrome devtools, is that the alignment of the page would often incorrectly shift. But I looked up any solutions and discovered a handy trick - pressing ctrl + 0 after clicking on the web page area resets the view. Granted, there are times when this does not work, but for the most part it improved my efficiently by quite a margin.  
+One thing that was bothering me when testing responsive feedback on the web page using chrome devtools, is that the alignment of the page would often incorrectly shift. But I looked up any solutions and discovered a handy trick - pressing ctrl + 0 after clicking on the web page area resets the view. Granted, there are times when this does not work, but for the most part it improved my efficiency by quite a margin.  
 
 ------------
 
