@@ -4,7 +4,7 @@
  ------------
 
 --- XXX XXX ---  
-YYYY-MM-DD
+YYYY-MM-DD <!-- tags:[React, TS, CSS, JavaScript] -->
 
 
 ------------
