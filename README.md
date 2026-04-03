@@ -57,4 +57,4 @@ One thing that was bothering me when testing responsive feedback on the web page
 
 ------------
 
-<div align = "center"><a href="2026-02.md">Feb 2026</a></div>
+<div align = "center"><a href="./2026/2026-02.md">Feb 2026</a></div>
