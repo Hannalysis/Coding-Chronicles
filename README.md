@@ -38,6 +38,8 @@ I also continued with my furniture web project, and began the mobile responsive 
 --- Apr 24th ---  
 2026-04-24  <!-- tags:[React, TS, CSS, HTML, Figma] -->
 
-After updating the Relic colab project with a new frame in Figma to handover to my peer on Tuesday, I was free to continue my focus on my solo project for the remainder of the week. This was focused on making two sections mobile responsive ('Banner' & 'Browse The Range'), and making thoughtful layout decisions and in some cases, removing more irrelevant visuals/content to ensure the content fits on the smallest devices (320px), whilst keeping the design feel as close to the intent of the full desktop view as possible
+After updating the Relic colab project with a new frame in Figma to handover to my peer on Tuesday, I was free to continue my focus on my solo project for the remainder of the week. 
+  
+This was focused on making two sections mobile responsive ('Banner' & 'Browse The Range'), and making thoughtful layout decisions and in some cases, removing more irrelevant visuals/content to ensure the content fits on the smallest devices (320px), whilst keeping the design feel as close to the intent of the full desktop view as possible.
 
 <div align = "center"><a href="./2026/2026-03.md">Mar 2026</a></div>
