@@ -1,47 +1,44 @@
 <h1 align = "center"> Coding Chronicles </h1>
- <div align = "center"><i> April 2026 </i></div>
+ <div align = "center"><i> May 2026 </i></div>
 
  ------------
 
---- Apr 3rd ---  
-2026-04-03  <!-- tags:[React, TS, CSS, JS] -->
+--- May 31st ---  
+2026-05-31 <!-- tags:[React, HTML, TS, CSS, JavaScript] -->
 
-It's been a very productive week! 
+It's been a month! 
 
-As of yesterday, I managed to complete my task of making my latest personal project (the furniture site) fully responsive for all desktop sizes (mobile to follow). Meaning, I was in a good place to make that project public, and add it to my site.  
+Outside of reviewing a PR for the relic colab and minor portfolio site updates, this month has been filled with work related tasks, visits to family, and distant friends visiting. Also the weather over the last week has been so intense to boot.
 
-Additionally, I made some minor visual adjustments to my site; slightly lighter shade of colouring on all card types for readability, and an improved transition when the user first loads into the site.
+However, I did manage to grab a couple of days at the end of the month to complete the full mobile responsiveness work on my solo furniture project. 
+I only had a couple of sections to tidy up; one involved splitting a lengthy hashtag on smaller devices, so I split the element into two spans. One of those spans would then switch from inline to block to throw the second part of the hashtag to a new line, freeing up the width a little:
 
-And just before I sign off for a much needed Easter break, this morning I updated my CV project, and made adjustments to my pdf generator script.
-
-------------
-
---- Apr 17th ---  
-2026-04-17  <!-- tags:[React, TS, CSS, HTML] -->
-
-After a great easter break, I'm ready and raring to get back to it this week!
-
-I made great strides with the relic colab. It was also the first time I'd utilised a mapping system to assign styling classes to a version string:
-
-```ts
-    const versionClassMap: Record<Version, keyof typeof styles> = {
-    "2.x" : "v2",
-    "3.x" : "v3",
-    "4.x" : "v4"
-    };
+```html
+    <Typography variant="heading2">
+            <span className={classes.shareFurniroTextPart1}>#Furniro</span>
+            <span className={classes.shareFurniroTextPart2}>Furniture</span>
+    </Typography>
 ```
 
-This aided me in the creation of a particular dynamic component where I could add the appropriate version label to each, and still keep styling within the respective CSS module. 
+```css
+    .shareFurniroTextPart2 {
+        display: block;
+    }
 
-I also continued with my furniture web project, and began the mobile responsive work for all common breakpoints. This was when I discovered the 'order' property, was really useful for reorganising my header on the smallest device screens so links were under header actions and the brand logo.
+    .shareFurniroTextPart1 {
+        display: inline;
+    }
+
+    @media (min-width: 400px) {
+
+        .shareFurniroTextPart1, .shareFurniroTextPart2 {
+            display: inline;
+        }
+    }
+```
+
+Finally, I have dabbled in a little Codecademy to brush up on some js, and will continue my Front-End Engineer career path next.
 
 ------------
 
---- Apr 24th ---  
-2026-04-24  <!-- tags:[React, TS, CSS, HTML, Figma] -->
-
-After updating the Relic colab project with a new frame in Figma to handover to my peer on Tuesday, I was free to continue my focus on my solo project for the remainder of the week. 
-  
-This was focused on making two sections mobile responsive ('Banner' & 'Browse The Range'), and making thoughtful layout decisions and in some cases, removing more irrelevant visuals/content to ensure the content fits on the smallest devices (320px), whilst keeping the design feel as close to the intent of the full desktop view as possible.
-
-<div align = "center"><a href="./2026/2026-03.md">Mar 2026</a></div>
+<div align = "center"><a href="./2026/2026-04.md">Apr 2026</a></div>
