@@ -23,11 +23,13 @@ After a great easter break, I'm ready and raring to get back to it this week!
 
 I made great strides with the relic colab. It was also the first time I'd utilised a mapping system to assign styling classes to a version string:
 
+```ts
     const versionClassMap: Record<Version, keyof typeof styles> = {
     "2.x" : "v2",
     "3.x" : "v3",
     "4.x" : "v4"
     };
+```
 
 This aided me in the creation of a particular dynamic component where I could add the appropriate version label to each, and still keep styling within the respective CSS module. 
 
