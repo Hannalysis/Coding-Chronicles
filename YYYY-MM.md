@@ -9,4 +9,4 @@ YYYY-MM-DD <!-- tags:[React, TS, CSS, JavaScript] -->
 
 ------------
 
-<div align = "center"><a href="202X-0X.md">XXX 202X</a></div>
+<div align = "center"><a href="./20XX/202X-0X.md">XXX 202X</a></div>
