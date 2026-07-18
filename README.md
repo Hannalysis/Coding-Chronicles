@@ -1,44 +1,38 @@
 <h1 align = "center"> Coding Chronicles </h1>
- <div align = "center"><i> May 2026 </i></div>
+ <div align = "center"><i> July 2026 </i></div>
 
  ------------
 
---- May 31st ---  
-2026-05-31 <!-- tags:[React, HTML, TS, CSS, JavaScript] -->
+--- July 5th ---  
+2026-07-05 <!-- tags:[HTML, CSS, JavaScript] -->
 
-It's been a month! 
+Well, it's been two months! June is noticeably absent from the journal due to the fact that I started my new job recently. So now my updates will potentially be more infrequent, and shorter due to time constraints. But there will still be updates! 
 
-Outside of reviewing a PR for the relic colab and minor portfolio site updates, this month has been filled with work related tasks, visits to family, and distant friends visiting. Also the weather over the last week has been so intense to boot.
+To get back a bit of momentum in my learning, my focus is to continue to progress through Codecademy's Front-End Engineer career path. 
 
-However, I did manage to grab a couple of days at the end of the month to complete the full mobile responsiveness work on my solo furniture project. 
-I only had a couple of sections to tidy up; one involved splitting a lengthy hashtag on smaller devices, so I split the element into two spans. One of those spans would then switch from inline to block to throw the second part of the hashtag to a new line, freeing up the width a little:
-
-```html
-    <Typography variant="heading2">
-            <span className={classes.shareFurniroTextPart1}>#Furniro</span>
-            <span className={classes.shareFurniroTextPart2}>Furniture</span>
-    </Typography>
-```
-
-```css
-    .shareFurniroTextPart2 {
-        display: block;
-    }
-
-    .shareFurniroTextPart1 {
-        display: inline;
-    }
-
-    @media (min-width: 400px) {
-
-        .shareFurniroTextPart1, .shareFurniroTextPart2 {
-            display: inline;
-        }
-    }
-```
-
-Finally, I have dabbled in a little Codecademy to brush up on some js, and will continue my Front-End Engineer career path next.
+In this session, I managed to complete the 'Making a Website Accessible' segment. During this, I was informed of a useful website known as <i>'Toptal'</i> which shows websites through a lense of a colourblind user.
 
 ------------
 
-<div align = "center"><a href="./2026/2026-04.md">Apr 2026</a></div>
+--- July 18th ---  
+2026-07-18 <!-- tags:[HTML, JavaScript, Git, Markdown] -->
+
+Today, I continued into my Codecademy career path course. I completed the Git segment, and was grateful as there were commands I was still fairly unfamiliar with: 
+
+>`git checkout HEAD filename | git checkout -- filename` - restores the file to the state of the working directory to the point of the last commit
+
+>`git reset HEAD filename` - removes files from the staging area
+
+>`git reset commit SHA` (first 7) - any commits from now and between this commit SHA are removed from history.
+
+>`git stash pop` - allows stashed code (from using the command git stash) to be retrieved.
+
+I also completed the Markdown segment, and was surprised to note that the hashes can be used for all 6 headings, and the plus symbol for bullet points.
+
+Finally, I took and passed the two examinations to complete that course section.
+
+Front-End Engineer career path: 43% complete.
+
+------------
+
+<div align = "center"><a href="./2026/2026-05.md">May 2026</a></div>
