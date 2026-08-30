@@ -1,38 +1,22 @@
 <h1 align = "center"> Coding Chronicles </h1>
- <div align = "center"><i> July 2026 </i></div>
+ <div align = "center"><i> August 2026 </i></div>
 
  ------------
 
---- July 5th ---  
-2026-07-05 <!-- tags:[HTML, CSS, JavaScript] -->
+--- Aug 8th ---  
+2026-08-08 <!-- tags:[Figma] -->
 
-Well, it's been two months! June is noticeably absent from the journal due to the fact that I started my new job recently. So now my updates will potentially be more infrequent, and shorter due to time constraints. But there will still be updates! 
+It's an extremely busy month at work, so I expect updates for this month are short and sweet.
 
-To get back a bit of momentum in my learning, my focus is to continue to progress through Codecademy's Front-End Engineer career path. 
-
-In this session, I managed to complete the 'Making a Website Accessible' segment. During this, I was informed of a useful website known as <i>'Toptal'</i> which shows websites through a lense of a colourblind user.
+I can say I managed to create a new slide in Figma for the Character Selection dropdown for the Relic colab. It took a bit longer than I had expected as I had not dabbled in Figma for a few months.  It's just pending a couple of image inserts which my fellow dev will supply for me.
 
 ------------
 
---- July 18th ---  
-2026-07-18 <!-- tags:[HTML, JavaScript, Git, Markdown] -->
+--- Aug 30th ---  
+2026-08-30 <!-- tags:[Figma] -->
 
-Today, I continued into my Codecademy career path course. I completed the Git segment, and was grateful as there were commands I was still fairly unfamiliar with: 
-
->`git checkout HEAD filename | git checkout -- filename` - restores the file to the state of the working directory to the point of the last commit
-
->`git reset HEAD filename` - removes files from the staging area
-
->`git reset commit SHA` (first 7) - any commits from now and between this commit SHA are removed from history.
-
->`git stash pop` - allows stashed code (from using the command git stash) to be retrieved.
-
-I also completed the Markdown segment, and was surprised to note that the hashes can be used for all 6 headings, and the plus symbol for bullet points.
-
-Finally, I took and passed the two examinations to complete that course section.
-
-Front-End Engineer career path: 43% complete.
+It took me a while to get back to the Relic project, but today I was able to swap in the image content into the slide, review with my collaberator, and finally close off that task in Github.
 
 ------------
 
-<div align = "center"><a href="./2026/2026-05.md">May 2026</a></div>
+<div align = "center"><a href="./2026/2026-07.md">July 2026</a></div>
