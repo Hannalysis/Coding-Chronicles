@@ -6,7 +6,7 @@
 --- Aug 8th ---  
 2026-08-08 <!-- tags:[Figma] -->
 
-It's an extremely busy month at work, so I expect updates for this month are short and sweet.
+It's an extremely busy month at work, so I expect updates for this month will be short and sweet.
 
 I can say I managed to create a new slide in Figma for the Character Selection dropdown for the Relic colab. It took a bit longer than I had expected as I had not dabbled in Figma for a few months.  It's just pending a couple of image inserts which my fellow dev will supply for me.
 
