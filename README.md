@@ -1,22 +1,30 @@
 <h1 align = "center"> Coding Chronicles </h1>
- <div align = "center"><i> August 2026 </i></div>
+ <div align = "center"><i> September 2026 </i></div>
 
  ------------
 
---- Aug 8th ---  
-2026-08-08 <!-- tags:[Figma] -->
+--- Sept 30th ---  
+2026-09-30 <!-- tags:[React, CSS, Motion] -->
 
-It's an extremely busy month at work, so I expect updates for this month will be short and sweet.
+The busy-ness at work reached a peak this month, and has given me a chance to wind down a little as we head towards the end of the month.
 
-I can say I managed to create a new slide in Figma for the Character Selection dropdown for the Relic colab. It took a bit longer than I had expected as I had not dabbled in Figma for a few months.  It's just pending a couple of image inserts which my fellow dev will supply for me.
+Today, I thought it was a good time to make a much needed content update to my About Me section within my site.
+Additionally, I saw a couple of areas where I could make small adjustments within that selfsame component for styling improvements.
+
+Mainly, the ability for my tech stack containers to animate as they come into view (previously they'd all animate whether or not you could see them when the sidebar opens).
+So, I needed to add the following properties:
+
+```css
+whileInView={{ opacity: 1, x: 0, y: 0 }}
+viewport={{ once: true, amount: 0.2 }}
+```
+...and removed the redundant `animate` property entirely from this area as it's more suited to already visible elements on load, and conflicts with `whileInView`.
+
+`whileInView` required the x and y co-ordinates specified, simply so the icons could utilise the visual zoom in from the left using the `initial` property. 
+`viewport` was the property I needed to allow to animate when on display - the amount allows a percentage of that section in view before triggering.
+
+Outside of that, I removed a bottom margin that was giving unnecessary spacing between the h3 headers within the sidebar.
 
 ------------
 
---- Aug 30th ---  
-2026-08-30 <!-- tags:[Figma] -->
-
-It took me a while to get back to the Relic project, but today I was able to swap in the image content into the slide, review with my collaberator, and finally close off that task in Github.
-
-------------
-
-<div align = "center"><a href="./2026/2026-07.md">July 2026</a></div>
+<div align = "center"><a href="./2026/2026-08.md">Aug 2026</a></div>
