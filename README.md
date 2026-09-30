@@ -14,7 +14,7 @@ Additionally, I saw a couple of areas where I could make small adjustments withi
 Mainly, the ability for my tech stack containers to animate as they come into view (previously they'd all animate whether or not you could see them when the sidebar opens).
 So, I needed to add the following properties:
 
-```css
+```tsx
 whileInView={{ opacity: 1, x: 0, y: 0 }}
 viewport={{ once: true, amount: 0.2 }}
 ```
